@@ -13,8 +13,8 @@ This endpoint retrieves a list of posts from a fanboard. It allows for filtering
 ## Request Parameters
 
 ### Path Parameters:
-- `orgId`: The organization ID. Example: `5ee25ee9c36bdf00089b6a99`
-- `boardId`: The board ID. Example: `c913e2c9-1912-4ac3-8dd3-46a69ef0ca54`
+- `orgId`: The organization ID.
+- `boardId`: The board ID.
 - `pageNumber`: The page number of results to return.
 
 ### Query Parameters:
