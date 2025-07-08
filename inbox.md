@@ -1,4 +1,4 @@
-# Inbox
+# What is an Inbox?
 
 The inbox is where posts pulled from the social media platforms YouTube, Instagram, and X, as well as posts from RSS feeds, are aggregated and displayed.
 
@@ -6,13 +6,13 @@ The inbox is where posts pulled from the social media platforms YouTube, Instagr
 -Users add their social media login credentials in Inbox Settings>Connections
 -They then add 1-3 keywords in Inbox Settings>General
 -Top media for each keyword is displayed with its own unique row and UI
--Users can then be delete the displayed posts, pin them to a board, filter them through a search bar, and block the user who posted the media.
+-Users can then delete the displayed posts, pin them to a board, filter them through a search bar, and block the user who posted the media.
 
 
 ## How it works for RSS Feeds
 -Users add the link to a RSS feed in Inbox Settings>Feeds.
--All posts from the feed are displayed, it is not effected by the keyword used to filter Social Media posts.
--Users can then be delete the displayed posts, pin them to a board, and filter them through a search bar.
+-All posts from the feed are displayed, it is not effected by the keyword used to filter social media posts.
+-Users can then delete the displayed posts, pin them to a board, and filter them through a search bar.
 
 
 ## Key Features
