@@ -22,6 +22,7 @@ The inbox is where posts pulled from the social media platforms YouTube, Instagr
 -Pin posts to boards or to Circle
 -Delete posts from inbox
 -Multi-select to pin or delete multiple posts at once
+-The inbox can be filtered by pinned posts, unpinned posts, all posts, newest posts, and oldest posts
 
 
 ## User Actions
