@@ -8,8 +8,9 @@ Competitions provide a way to improve and increase publicity through consumer an
 
 
 ## Key Features
--Competetiors submit videos or images as competition entries
+-Competetiors submit original videos or images of their own creation as competition entries
 -The audience votes on entries to determine the winner(s) of the round
+
 
 ## How admins setup a site competition
 -Find the setup options in Challenge Settings>Setup>Type.  The "Challenge Submission Type" dropdown will have the Post Competition selected by default.  Click the dropdown and choose "Site Competition".  Enter the required information ("Challenge Categories" and "Admin Phone Number") and click the Save button in the bottom right.  This will cause all the setup tabs for a site competition to appear.
