@@ -8,7 +8,7 @@ Competitions provide a way to improve and increase publicity through consumer an
 
 
 ## Key Features
--Competetiors submit original videos or images of their own creation as competition entries
+-Competetiors submit original videos or images of their own creation as competition entries.  These entries are submitted through the Gigg Competitions website
 -The audience votes on entries to determine the winner(s) of the round
 
 
@@ -22,7 +22,10 @@ Competitions provide a way to improve and increase publicity through consumer an
   1. Pick start date and time (must be in the future) and end date and time (must be at least 15 minutes after the start date)
   2. Add/Edit Rounds:  Rounds can be added by pressing the "Add Round" button.  Clicking this will create a new Round UI that can be changed for each round.  In the UI, the round can be renamed, start and end date are chosen, how winners are selected is determined by a dropdown, number of winners is selected, and toggles to  Auto-Notify Competitiors and Auto-Advance Rounds are present.
   3. Choosing the start date and end date to approve and notify winners is the last step of the setup.
-  4. Press the "Save Rounds" button in the bottom left to save all changes made to the "Rounds" tab.
+  4. Press the "Save Rounds" button in the bottom right to save all changes made to the "Rounds" tab.
+-Using the "Submissions" tab:
+ 1. A redirect URL can be added to redirect the user to another website after completing the entry submission form
+ 2. Toggles for the "About Me" form the entrant has to fill out.  These are name, phone number, email, caption, country, state, and city.  Each option has one toggle for it to be visible on the form and another toggle to require the field during form completion.  At least one field must be required, and no field can be required without being visible.
 
 
 NOTE: Competitions are sometimes referred to as challenges, they are synonymous.
