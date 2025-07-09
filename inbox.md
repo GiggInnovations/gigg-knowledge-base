@@ -4,7 +4,7 @@ The inbox is where posts pulled from the social media platforms YouTube, Instagr
 
 ## How it works for Social Media posts
 -Users add their social media login credentials in Inbox Settings>Connections
--They then add 1-3 keywords in Inbox Settings>General
+-They then add 1-3 keywords in Inbox Settings>General.  There must be at least one keyword, or else no media will be pulled into the inbox.
 -Top media for each keyword is displayed with its own unique row and UI
 -Users can then delete the displayed posts, pin them to a board, filter them through a search bar, and block the user who posted the media.
 
