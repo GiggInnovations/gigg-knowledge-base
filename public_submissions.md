@@ -10,7 +10,7 @@ Public Submissions are posts made by filling out a form, which are aggregated in
 
 ## How it works
 -Toggles are used to change what is displayed/required on the form. A URL link can be shared to access the form on its own website
--In Inbox Settings>Public Submission, there is a UI about halfway down titled "Public Submission Form Embed Code". There is a button to "Copy Embed Code". Clicking this button copies the iframe code to the clipboard. Embedding this code will allow the public submission form to be filled out directly from the client's website. As the toggles change in Public Submission, the form changes with it.
+-In Inbox Settings>Public Submission, there is a UI about halfway down titled "Public Submission Form Embed Code". There is a button to "Copy Embed Code". Clicking this button copies the iframe code to the clipboard. Embedding this code will allow the public submission form to be filled out directly from the client's website. As the toggles change in Public Submission, the form changes with it, even if it has already been embedded.
 
 
 ## User Actions
