@@ -18,4 +18,4 @@ The search bar filters the inbox to find specific posts.
 -Clicking the search bar will cause the keyword and platform filters to appear. Clicking on one of them will automatically fill in the box and search for all posts fitting the search
 -Entering text and pressing the enter key will cause the posts to be filter by the entered text.
 -Refresh the page to cause all posts to be visible again
--If there are no posts associated with the search, an error message will appear where the posts normally are.
+-If there are no posts associated with the search, the error message "We couldn't find any posts for your keywords" will appear where the posts normally are.
