@@ -10,3 +10,5 @@ Competitions provide a way to improve and increase publicity through consumer an
 ## Key Features
 -Competetiors submit original videos or images of their own creation as competition entries.  These entries are submitted through the Gigg Competitions website
 -The audience votes on entries to determine the winner(s) of the round
+
+NOTE: Competitions are sometimes referred to as challenges, they are synonymous.
