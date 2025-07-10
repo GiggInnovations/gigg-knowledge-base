@@ -2,7 +2,7 @@
 -Find the setup options in Challenge Settings>Setup>Type.  The "Challenge Submission Type" dropdown will have the Post Competition selected by default.  Click the dropdown and choose "Site Competition".  Enter the required information ("Challenge Categories" and "Admin Phone Number") and click the Save button in the bottom right.  This will cause all the setup tabs for a site competition to appear.
 
 -Setup options in the "Type" tab:
-  1. Text/Dropdown: Challenge Embed URL, Accepted Submission Media Types, Media Limit per Submission
+  1. Text/Dropdown: Challenge Embed URL (required), Accepted Submission Media Types, Media Limit per Submission
   2. Toggles: Hide vote Count, Single Vote per User, Enable Anoymous Voting, Voters Subscrubed by Default.
   3. Images/Videos/Thumbnails: Intro Video, Intro Image or Video Thumbnail, COnfirmation Video, Background Image, Prize Video, Prize Image or Video Thumbnail.
 
@@ -28,7 +28,7 @@
 -Using the "Affiliates" tab:
 
 -Using the "Terms & Conditions" tab:
-  1. The terms and conditions are typed out.  At the very bottom is an "Accept" button, which must be clicked before publishing the competition
+  1. The Gigg terms and conditions are typed out and not editable.  At the very bottom is an "Accept" button.  The user settiing up the competition must accept these terms and conditions before publishing the competition.
 
 -Using the "Finalize" tab:
   1. A summary of all Setup tabs is shown, with each tab having its own box.  If the box is outlined in red, there is something from that tab that must be filled out before publishing the competition.  Any red text will indicate exactly what is required from that tab.
