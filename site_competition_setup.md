@@ -1,17 +1,3 @@
-# What is a Competition?
-
-Competitions provide a way to improve and increase publicity through consumer and audience interaction.
-
-
-## How it works
--The audience uploads meadia submissions, then vote on which submissions move on to the next round.  This will ultimately lead to a final round where a winner is chosen.
-
-
-## Key Features
--Competetiors submit original videos or images of their own creation as competition entries.  These entries are submitted through the Gigg Competitions website
--The audience votes on entries to determine the winner(s) of the round
-
-
 ## How admins setup a site competition
 -Find the setup options in Challenge Settings>Setup>Type.  The "Challenge Submission Type" dropdown will have the Post Competition selected by default.  Click the dropdown and choose "Site Competition".  Enter the required information ("Challenge Categories" and "Admin Phone Number") and click the Save button in the bottom right.  This will cause all the setup tabs for a site competition to appear.
 
@@ -32,7 +18,21 @@ Competitions provide a way to improve and increase publicity through consumer an
  3. Use the "Save" button in the bottom right to save all changes made
 
 -Using the "Rules" tab:
-  1.
+  1. The "Challenge Introduction/Description" has a pre-written default message that can be changed.
+  2. The "Challenge Rules" is left blank and must be filled out before publishing the challenge
+
+-Using the "Messaging" tab:
+  1. Contains customizable messages with a default prewritten message. The different kinds of messages are:  Submissions Email, Advancement Email, Advancement SMS, Condolences Email, Sondolences SMS, All Participants Final Email, Winner Email, Winner SMS.
+  2. The Voting Stage Subtitle and Submission Instructions can also be added here, they have no prewritten text.
+
+-Using the "Affiliates" tab:
+
+-Using the "Terms & Conditions" tab:
+  1. The terms and conditions are typed out.  At the very bottom is an "Accept" button, which must be clicked before publishing the competition
+
+-Using the "Finalize" tab:
+  1. A summary of all Setup tabs is shown, with each tab having its own box.  If the box is outlined in red, there is something from that tab that must be filled out before publishing the competition.  Any red text will indicate exactly what is required from that tab.
+  2. Once everything is filled out, the "Publish" button at the bottom right will be clickable.  Clicking it will publish the competition to the Gigg Competitions website.
 
 
 NOTE: Competitions are sometimes referred to as challenges, they are synonymous.
