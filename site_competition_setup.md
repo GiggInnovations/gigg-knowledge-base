@@ -33,6 +33,3 @@
 -Using the "Finalize" tab:
   1. A summary of all Setup tabs is shown, with each tab having its own box.  If the box is outlined in red, there is something from that tab that must be filled out before publishing the competition.  Any red text will indicate exactly what is required from that tab.
   2. Once everything is filled out, the "Publish" button at the bottom right will be clickable.  Clicking it will publish the competition to the Gigg Competitions website.
-
-
-NOTE: Competitions are sometimes referred to as challenges, they are synonymous.
