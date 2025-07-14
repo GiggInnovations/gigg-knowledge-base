@@ -13,9 +13,9 @@
   4. Press the "Save Rounds" button in the bottom right to save all changes made to the "Rounds" tab.
 
 - Using the "Submissions" tab:
- 1. A redirect URL can be added to redirect the user to another website after completing the entry submission form
- 2. Toggles for the "About Me" form the entrant has to fill out.  These are name, phone number, email, caption, country, state, and city.  Each option has one toggle for it to be visible on the form and another toggle to require the field during form completion.  At least one field must be required, and no field can be required without being visible.
- 3. Use the "Save" button in the bottom right to save all changes made
+  1. A redirect URL can be added to redirect the user to another website after completing the entry submission form
+  2. Toggles for the "About Me" form the entrant has to fill out.  These are name, phone number, email, caption, country, state, and city.  Each option has one toggle for it to be visible on the form and another toggle to require the field during form completion.  At least one field must be required, and no field can be required without being visible.
+  3. Use the "Save" button in the bottom right to save all changes made
 
 - Using the "Rules" tab:
   1. The "Challenge Introduction/Description" has a pre-written default message that can be changed.
