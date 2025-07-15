@@ -3,40 +3,47 @@ audience: user
 tags: [competition, submissions, entry process]
 ---
 
-# Site Competition: Submission Round
+# What is the Submission Round?
 
-During the first phase of a competition, users can submit media entries through the Gigg Competitions site.
+The submission round is the first phase of a Site Competition, where entrants upload their media entries through the Gigg Competitions website.
 
-## Entry Flow
+## How it works
 
-1. **Countdown**: Prior to start, the competition site displays a countdown timer
-2. **Enter Challenge**:
-   - Triggers login/register modal:
-     - Facebook or Gmail redirect
-     - Or sign up with Gigg email/password
-   - After login, complete the **About Me** form
-     - Fields vary by admin setup
-     - Required fields must be filled to continue
-   - Upload media in the **Submission** step
-     - Drag-and-drop or file browser
-     - Shows counter for uploaded media vs. limit
-     - Files can be removed before submitting
-   - Submit the form to see a confirmation message
-     - Email confirmation sent if email was provided
-     - Option to logout or add more media (if under limit)
+- Before the competition begins, the website displays a countdown timer
+- Once started, users can submit their media entries through a form-based flow
+- Users must be signed in via Facebook, Gmail, or a Gigg account (email + password)
 
-## UI Sections
+## Submission Flow
 
-- **See Prizes and Rules**: Opens modal with rules and optional intro video
-- **Vote**: Shows when voting begins; users can opt-in for reminders
-- **Check Out Some Entries**: Displays approved entries from admin
+1. Click "Enter Challenge" to launch a submission modal
+2. Sign in or register an account
+3. Fill out the "About Me" form (fields vary based on admin settings; required fields must be completed to proceed)
+4. Upload media (drag-and-drop or file browser)
+   - A counter shows how many files are uploaded vs. the allowed limit
+   - Users cannot exceed the media limit
+   - If the limit is reached, the "Add More Media" button becomes inactive
+5. Submit the form to complete the entry
+   - A confirmation message appears on screen
+   - If an email was provided, a confirmation email is also sent
+
+## Key Notes
+
+- Submission must be completed in one session. If the page is refreshed, only the login is retained.
+- If the entrant does not provide an email, only the on-screen confirmation appears.
+- Accepted entries will appear on the competition page under "Check Out Some Entries"
+- Rejected entries are never publicly visible, but users can re-submit a new entry
+- Admins can edit any entry after submission
+- Entrants cannot revise their own submission after it’s been submitted
 
 ## Admin Review
 
-- Admin approves/rejects each submission in the **Submissions** view
-- Rejections require a reason; the entrant is notified via email
+- Admins review submissions in the "Submissions" tab
+- Each entry can be accepted or rejected
+- Rejections require a personalized message that is emailed to the entrant
 
-## Notes
+## User Interface Elements
 
-- Submissions only appear publicly after approval
-- Submissions cannot proceed until the competition start date
+- **See Prizes and Rules**: Opens a modal with challenge description, rules, and optional intro video
+- **Enter Challenge**: Starts the entry process
+- **Vote**: Inactive until voting starts; includes a checkbox to opt-in for reminders
+- **Check Out Some Entries**: Displays accepted and visible entries
