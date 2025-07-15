@@ -3,29 +3,50 @@ audience: user
 tags: [competition, voting, rounds, winners]
 ---
 
-# Site Competition: Voting & Winners
+# What is Voting & Winner Selection?
 
-Voting rounds determine which competition entries move forward and who wins.
+The voting phase allows the public to vote on their favorite competition entries. This determines which submissions advance and who wins the final round.
 
-## Voting Flow
+## How it works
 
-- Competitions can have one or more voting rounds
-- Fewer entries advance with each round
-- Final round determines winner(s) by most votes
+- Each competition can include one or multiple voting rounds
+- During each round, users vote on approved entries
+- As rounds progress, fewer entries advance
+- The final round determines the winner(s) based on total votes
+- Admins can manually remove entries from any round to override vote-based outcomes
 
-## How to Vote
+## Voting Behavior
 
-1. Click on an entry to open a popup with media preview
-2. Use arrows to navigate between submissions
-3. Click the green **Vote for [Entry Name]** button to cast a vote
+- Users can vote on multiple entries unless “Single Vote per User” is enabled
+- Votes cannot be changed once submitted
+- Voting is tracked per user unless anonymous voting is enabled in settings
 
-## Winning & Advancement
+## Advancing Rounds
 
-- After each round, the admin clicks **Advance Challenge**
-- Emails are sent to the highest voted entries
-- After the final round, the challenge ends and winners are notified
+- When a voting round ends, the admin must manually click “Advance Challenge”
+- Votes reset for the next round
+- A holding screen appears on the competition website stating that the next round will begin shortly
 
-## Notes
+## Voting Restrictions
 
-- Users can only vote during active voting phases
-- Voting restrictions (e.g., one vote per user) depend on admin setup
+- If “Single Vote per User” is enabled, users can only cast one vote per round
+- Other vote-based restrictions (e.g., subscription requirement) are controlled in the “Type” tab
+
+## User Actions
+
+- Users visit the Gigg challenge website during an active voting round
+- Approved entries are displayed as tiles
+- Clicking a tile opens a popup with the entry’s media
+- Users vote by clicking the “Vote for {Submission Name}” button next to the media
+  - The button turns green to confirm the vote
+  - Arrows allow navigation between entries in the popup
+
+
+## Winning
+
+- After the final round ends and “Advance Challenge” is clicked, an email is sent to the entrant(s) with the most votes
+- The challenge ends and the winner(s) are determined
+- Admins can remove entries from the current round to influence outcomes if needed
+- However, entries that did not advance from previous rounds cannot be brought back
+- Winners are automatically displayed on the site once chosen
+
