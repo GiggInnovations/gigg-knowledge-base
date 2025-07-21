@@ -11,7 +11,7 @@ Boards support multiple display types, each with its own customization options. 
 
 1. Navigate to a board  
 2. Click the **three-dot menu** in the top right corner  
-3. Select **Board Settings** from the side panel  
+3. Select **Board Settings > Display Options** from the side panel  
 
 ## Color Settings
 
