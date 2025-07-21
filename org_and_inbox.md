@@ -59,6 +59,30 @@ Workspace within an org used to pull and manage social and RSS content.
 - Read-only access
 - Can view inbox and boards but cannot modify or create content
 
+  # Switching Between Organizations
+
+Users who belong to multiple organizations can easily switch their working context.
+
+## Steps to Switch Orgs
+
+1. **Click the User Icon**  
+   - Located in the bottom left corner of the screen  
+   - Icon resembles a head and upper body silhouette
+
+2. **Select "Switch Orgs"**  
+   - This is the first option in the popup menu
+
+3. **Choose an Organization**  
+   - A modal will display all orgs the user belongs to  
+   - Use the scroll feature to browse all available orgs  
+   - Use the search bar at the top of the modal to quickly find a specific org  
+   - Selecting an organization switches context immediately—no confirmation required
+
+## Additional Notes
+
+- **Default Org on Sign-In**: When signing out and back in, users are automatically placed in the first org listed alphabetically.
+- **Current Org Indicator**: The user’s name and current org name are shown to the right of the User icon in the bottom left corner.
+
 ---
 
 This reference can be reused for future documentation or onboarding.
