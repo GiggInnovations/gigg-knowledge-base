@@ -24,5 +24,5 @@ The search bar helps locate specific posts in the social inbox by keyword, platf
 - Click the search bar to reveal keyword and platform filter suggestions
 - Click a suggestion to filter results immediately
 - Enter text and press `Enter` to search by content
-- Refresh the page to reset filters and show all posts
+- Refresh the page or press the "x" on the left side of the search bar to reset filters and show all posts
 - If no results match, a message appears: *"We couldn't find any posts for your keywords"*
