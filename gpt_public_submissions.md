@@ -37,3 +37,4 @@ Public Submissions allow anyone to contribute posts without using social media, 
 - Customize headers, descriptions, terms, and image
 - Choose which form fields to show or require
 - Save changes to apply instantly across all embed locations
+- Press the "x" in the top right corner of a logo to delete it before adding a new one
