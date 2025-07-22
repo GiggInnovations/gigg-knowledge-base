@@ -10,7 +10,7 @@ The inbox aggregates posts from YouTube, Instagram, X (formerly Twitter), and RS
 ## Social Media Posts
 
 - **Setup**: Add credentials in `Inbox Settings > Connections`. Then add 1–3 keywords in `Inbox Settings > General`. At least one keyword is required to pull in media.
-- **Display**: Top media per keyword is shown in individual rows.
+- **Display**: Top media per keyword shown.  Each post has its own row, posts are defaultly displayed based on how recently they were created.  There is no seperation based on keyword.
 - **Actions**:
   - Delete posts
   - Pin to one or more boards
