@@ -15,7 +15,7 @@ Boards support multiple display types, each with its own customization options. 
 
 ## Color Settings
 
-- Change **Text Accent Color** and **Background Color**
+- Change **Text Accent Color** (changes the color of hashtags in social media posts) and **Background Color**
 - Click the small colored rectangle to open a color palette modal
 - Select a new color to apply changes
 
