@@ -28,7 +28,7 @@ Each filter (Keywords, Blocked Words, Required Words, Whitelisted Usernames) has
 
 ## Blocked Words
 
-- Posts containing blocked words are automatically hidden from the inbox.  
+- Posts containing blocked words are automatically deleted from the inbox. Pinned posts containing blocked words are also deleted.
 - Removing a blocked word does not restore previously hidden posts unless the associated keyword is removed and re-added.  
 - An **Offensive Text Filter** toggle (default: off) blocks posts containing words from a predefined list managed by Gigg.  
 - **See [Offensive Text Filter Word List](#offensive-text-filter-word-list) below for the complete blocked words list.**
