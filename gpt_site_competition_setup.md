@@ -11,17 +11,24 @@ tags: [competition, setup, admin, configuration]
 ## Setup options in the "Type" tab:
 1. Text/Dropdown: Challenge Embed URL (required), Accepted Submission Media Types (enforces upload restrictions), Media Limit per Submission (UI blocks exceeding uploads)
 2. Toggles: Hide Vote Count, Single Vote per User, Enable Anonymous Voting, Voters Subscribed by Default
+<img width="1629" height="821" alt="image" src="https://github.com/user-attachments/assets/cc00e679-c42e-4427-8d61-e228565f3f71" />
 3. Media Uploads: Intro Video, Intro Image or Thumbnail, Confirmation Video, Background Image, Prize Video, Prize Image or Thumbnail
+   <img width="1629" height="821" alt="image" src="https://github.com/user-attachments/assets/c27880af-be95-4358-85c4-a5a2ba93ffc9" />
+
 
 ## Using the "Rounds" tab:
 1. Choose start/end times (start must be in future, end at least 15 min later)
-2. Add/Edit Rounds with "Add Round" button. For each round:
+   <img width="1629" height="821" alt="image" src="https://github.com/user-attachments/assets/31e1834a-1093-412a-868b-5aeb3733b283" />
+3. Add/Edit Rounds with "Add Round" button. For each round:
    - Rename, set dates
    - Choose winner selection method and count
    - Toggle Auto-Notify Competitors and Auto-Advance Rounds
-3. If Auto-Advance is off, the admin must click "Advance Round" manually.
+   <img width="1629" height="466" alt="image" src="https://github.com/user-attachments/assets/0fdb0ba0-bf83-4b48-842c-8cc89eded026" />
+
+
+4. If Auto-Advance is off, the admin must click "Advance Round" manually.
    - When a round ends with no action, competition pauses. A message appears on the site stating that the next round will begin shortly.
-4. Press "Save Rounds" in the bottom right
+5. Press "Save Rounds" in the bottom right
 
 ## Using the "Submissions" tab:
 1. Add an optional redirect URL after submission
@@ -30,6 +37,8 @@ tags: [competition, setup, admin, configuration]
    - These toggles apply globally across competitions
    - Admins cannot add custom fields
 3. Press "Save" to apply changes
+   <img width="1606" height="828" alt="image" src="https://github.com/user-attachments/assets/56e02d61-ddec-4eed-aa62-8491a7d576bd" />
+
 
 ## Using the "Rules" tab:
 1. Edit default Challenge Introduction/Description
@@ -51,3 +60,5 @@ tags: [competition, setup, admin, configuration]
    - Tabs with missing required fields are outlined in red
 2. No draft or preview mode exists
 3. Once complete, the "Publish" button becomes clickable and publishes to the Gigg Competitions website
+4. <img width="1606" height="793" alt="image" src="https://github.com/user-attachments/assets/2c76578b-1b4d-44af-8503-9be9249ca786" />
+
