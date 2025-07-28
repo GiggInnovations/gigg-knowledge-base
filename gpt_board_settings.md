@@ -109,8 +109,8 @@ Boards support multiple display types, each with its own customization options. 
 #### Notify Author Text
 - Description: *"Notify Author Text is the default text you want your users to see when you notify a user that their content has been posted to your board. You can use this text to ask permission or just let them know that they’ve been featured. It will automatically be copied to your clipboard when you click the 'Notify Author' button."*
 - Editable text box; default is blank.
--<img width="1797" height="225" alt="image" src="https://github.com/user-attachments/assets/6f03cd00-9be2-4c9c-91f7-13fdf715461f" />
-  *Caption: Field for customizing the text sent to authors when notifying them their content is featured.*
+![Notify Author Text field screenshot](https://github.com/user-attachments/assets/6f03cd00-9be2-4c9c-91f7-13fdf715461f)
+
 
 ### Delete Board
 - Click **Delete this Board**.  A deletion confirmation will appear.  To delete the board, type "delete" into the text box and click **Delete Board**.
