@@ -22,7 +22,8 @@ Each filter (Keywords, Blocked Words, Required Words, Whitelisted Usernames) has
 - Up to three keywords may be active at a time.  
 - Add keywords one at a time by entering the word and pressing **Enter** or clicking **Add**.  
 - Keywords trigger the pull of social media posts into the inbox.  
-- Removing a keyword deletes all posts associated with it (pinned posts remain on boards).
+- Removing a keyword deletes all posts associated with it from the inbox (pinned posts remain on boards).  
+- **Note:** If you re-add the same keyword later, the system will re-pull posts, including any that were previously deleted manually.
 
 ---
 
@@ -64,6 +65,14 @@ Each filter (Keywords, Blocked Words, Required Words, Whitelisted Usernames) has
 - **Required Words** and **Whitelisted Usernames** work together:  
   - If both filters are used, a post must meet **both** conditions to appear.  
 - Only adding a keyword triggers a new pull of posts; changes to filters alone do not refresh existing content.
+
+---
+
+## Deleted Posts and Keyword Re-Adding
+
+- Manually deleted posts are removed from the inbox immediately.  
+- If the keyword associated with those posts is later removed and re-added, the posts will return to the inbox (unless blocked by user or blocked word filters).  
+- Pinned posts are unaffected by keyword removal or re-adding and remain on boards.
 
 ---
 
