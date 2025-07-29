@@ -11,7 +11,8 @@ tags: [competition, setup, admin, configuration]
 ## Setup options in the "Type" tab:
 1. Text/Dropdown: Challenge Embed URL (required), Accepted Submission Media Types (enforces upload restrictions), Media Limit per Submission (UI blocks exceeding uploads)
 2. Toggles: Hide Vote Count, Single Vote per User, Enable Anonymous Voting, Voters Subscribed by Default
-<img width="1629" height="821" alt="image" src="https://github.com/user-attachments/assets/cc00e679-c42e-4427-8d61-e228565f3f71" />
+<img width="1581" height="536" alt="image" src="https://github.com/user-attachments/assets/c12e8122-7363-43ec-8905-2e8b377da3d0" />
+
 3. Media Uploads: Intro Video, Intro Image or Thumbnail, Confirmation Video, Background Image, Prize Video, Prize Image or Thumbnail
    <img width="1629" height="821" alt="image" src="https://github.com/user-attachments/assets/c27880af-be95-4358-85c4-a5a2ba93ffc9" />
 
