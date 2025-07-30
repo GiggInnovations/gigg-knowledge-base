@@ -56,7 +56,7 @@ tags: [competition, setup, admin, configuration]
 ## Using the "Terms & Conditions" tab:
 1. Displays Gigg terms (not editable)
 2. Must click "Accept" to proceed
-    [Screen recording 2025-07-30 5.01.32 PM.webm](https://github.com/user-attachments/assets/ddc7a7a4-6f38-4396-a6d9-6fc45ea38cb5)
+    (https://youtube.com/shorts/EpbsMlk_RU0?si=9y3ymWH41180aMSk)
    
 
 ## Using the "Finalize" tab:
