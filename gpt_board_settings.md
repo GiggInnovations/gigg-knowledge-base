@@ -7,19 +7,21 @@ tags: [boards, customization, embed, display]
 
 Boards support multiple display types, each with its own customization options. These can be accessed via **Board Settings**.
 
-## Accessing Board Settings
+## Display Options
+
+### Accessing Board Settings
 
 1. Navigate to a board  
 2. Click the **three-dot menu** in the top right corner  
 3. Select **Board Settings > Display Options** from the side panel  
 
-## Color Settings
+### Color Settings
 
 - Change **Text Accent Color** (ONLY changes the color of hashtag text in social media posts) and **Background Color**
 - Click the small colored rectangle to open a color palette modal
 - Select a new color to apply changes
 
-## General Embed Options
+### General Embed Options
 
 - All toggles default to **off**, except where noted
 - **Toggles**:
@@ -28,16 +30,16 @@ Boards support multiple display types, each with its own customization options. 
   - Disable Opening Posts
 - **Text Input**: `CTA Button Default Text` (optional)
 
-## Website Embed Display Types
+### Website Embed Display Types
 
-### Grid View
+#### Grid View
 
 - **Toggles**:
   - Show See More (**default: on**)
   - Hide Captions
 - **Text Input**: `Posts per Load` (default and max: 20)
 
-### Masonry View
+#### Masonry View
 
 - **Toggles**:
   - Show See More (**default: on**)
@@ -45,7 +47,7 @@ Boards support multiple display types, each with its own customization options. 
   - Hide Captions
 - **Text Input**: `Posts per Load` (default and max: 15)
 
-### Carousel View
+#### Carousel View
 
 - **Toggles**:
   - Carousel Slides Infinitely (**default: on**)
@@ -56,9 +58,9 @@ Boards support multiple display types, each with its own customization options. 
   - `Auto Play Interval (seconds)` (default: 15)
   - `Carousel Slides Limit` (default: 15, max: 25)
 
-## Video Display Types
+### Video Display Types
 
-### Single Post Display
+#### Single Post Display
 
 - **Toggles**:
   - Hide Captions
@@ -67,7 +69,7 @@ Boards support multiple display types, each with its own customization options. 
   - `Slide Duration (seconds)` (default: 10)
   - `CTA Image Frequency`
 
-### Mosaic Display
+#### Mosaic Display
 
 - **Toggles**:
   - Callout CTA
