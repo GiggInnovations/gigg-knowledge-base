@@ -63,7 +63,8 @@ tags: [competition, setup, admin, configuration]
 ## Using the "Finalize" tab:
 1. Shows a checklist summary of all tabs
    - Tabs with missing required fields are outlined in red
-2. No draft or preview mode exists
-3. Once complete, the "Publish" button becomes clickable and publishes to the Gigg Competitions website
-4. <img width="1606" height="793" alt="image" src="https://github.com/user-attachments/assets/2c76578b-1b4d-44af-8503-9be9249ca786" />
+     <img width="1606" height="793" alt="image" src="https://github.com/user-attachments/assets/2c76578b-1b4d-44af-8503-9be9249ca786" />
+3. No draft or preview mode exists
+4. Once complete, the "Publish" button becomes clickable and publishes to the Gigg Competitions website ![successful_publish_challenge](https://github.com/user-attachments/assets/3eb3895a-17cb-4611-9743-590c96c8730c)
+   
 
