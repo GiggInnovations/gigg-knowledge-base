@@ -53,15 +53,11 @@ tags: [competition, setup, admin, configuration]
    - Submissions Email, Advancement Email, Advancement SMS, Condolences Email, Condolences SMS, Final Email, Winner Email, Winner SMS
 3. Optional fields: Voting Stage Subtitle and Submission Instructions
 4. Variables (e.g., `{submission_name}`, `{round_number}`) can be used in templates
-   <img src="https://media1.tenor.com/m/bt1f0dpRBq4AAAAC/toad-kinopio.gif" alt="a cartoon toad is saying earthquake !!!"/><img width="320" height="240" alt="image" src="https://github.com/user-attachments/assets/828f1571-0d1a-4f4c-91a4-e684f7189df5" />
-
+  
 
 ## Using the "Terms & Conditions" tab:
 1. Displays Gigg terms (not editable)
 2. Must click "Accept" to proceed
-   <img src="https://media1.tenor.com/m/Q6ooU28_MJ0AAAAC/carlos-correa.gif" alt="a baseball player is swinging a bat at a ball while a catcher is sliding into base ."/><img width="498" height="278" alt="image" src="https://github.com/user-attachments/assets/707c5e66-e59d-4d9e-9117-a69d976ea530" />
-
-
    
 
 ## Using the "Finalize" tab:
