@@ -6,6 +6,8 @@ tags: [competition, setup, admin, configuration]
 # How admins setup a site competition
 
 - Find the setup options in Challenge Settings > Setup > Type. The "Challenge Submission Type" dropdown will have "Post Competition" selected by default. Click the dropdown and choose "Site Competition". Enter the required information ("Challenge Categories" and "Admin Phone Number") and click the Save button in the bottom right. This will cause all the setup tabs for a site competition to appear.
+  ![site competition tabs appear](https://github.com/user-attachments/assets/322f4832-ddbb-4859-b59c-70a4bb7ffa83)
+
 - Fields shared between Post and Site Competitions will retain their values when switching types.
 
 ## Setup options in the "Type" tab:
@@ -45,7 +47,7 @@ tags: [competition, setup, admin, configuration]
 ## Using the "Rules" tab:
 1. Edit default Challenge Introduction/Description
 2. Challenge Rules is required to publish and starts blank
-   https://media1.tenor.com/m/bt1f0dpRBq4AAAAC/toad-kinopio.gif
+
 
 ## Using the "Messaging" tab:
 1. Default messages populate upon selecting Site Competition
