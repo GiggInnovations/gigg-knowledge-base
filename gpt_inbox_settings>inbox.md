@@ -11,9 +11,14 @@ Customize how your social inbox filters and displays posts.
 
 Each filter (Keywords, Blocked Words, Required Words, Whitelisted Usernames) has its own section under **Inbox Settings > Inbox**. Use these steps to add or remove items from any of these UIs (except **Blocked Social Accounts**, which behaves differently and is explained later).
 
-- **Add a word:** Type the word into the text box and click **Add**. The word will appear below the text box.  
-- **Add multiple words:** Enter one word per line (press **Enter** after each word) and click **Add**. Each word is added individually.  
+- **Add a word:** Type the word into the text box and click **Add**. The word will appear below the text box.
+  ![Add a word](https://github.com/user-attachments/assets/ef501a92-1412-4bd5-891c-0a8f40449683)
+
+- **Add multiple words:** Enter one word per line (press **Enter** after each word) and click **Add**. Each word is added individually.
+  ![Add multiple words](https://github.com/user-attachments/assets/d3d1baac-a26a-41e2-afe3-694d8e32647e)
+
 - **Remove a word:** Click the trash can icon next to the word. A confirmation modal appears; choose **Remove** to confirm or **Cancel** to close it.
+  ![Remove a word](https://github.com/user-attachments/assets/f1af6989-a1a5-4803-9b93-5f4f1095fd92)
 
 ---
 
