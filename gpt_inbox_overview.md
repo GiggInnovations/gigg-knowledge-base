@@ -20,7 +20,11 @@ The inbox aggregates posts from YouTube, Instagram, X (formerly Twitter), and RS
 ## RSS Feeds
 
 - **Setup**: Add RSS URLs in `Inbox Settings > Feeds`.
+  ![Adding an RSS URL](https://github.com/user-attachments/assets/d6ae77f7-7d4f-4a40-97d3-e2b522ae08fa)
+
 - **Display**: Shows all posts from the feed, independent of keyword settings.
+  <img width="1612" height="760" alt="image" src="https://github.com/user-attachments/assets/f42c78f3-8b44-465e-8f8d-a289f03ac598" />
+
 - **Actions**: Same as social media posts—delete, pin, and search.
 
 ## Filtering and Sorting
