@@ -35,15 +35,15 @@ Follow these rules:
 - gpt_org_and_inbox.md
 - gpt_inbox_user.md
 - gpt_inbox_internal.md
-- gpt_site_competition_setup (4).md
+- gpt_site_competition_setup.md
 - gpt_boards.md
 - gpt_embedding.md
-- gpt_inbox_settings_inbox (2).md
+- gpt_inbox_settings_inbox.md
 - gpt_site_competition_submission_flow.md
 - gpt_inbox_overview.md
 - gpt_inbox_search.md
-- gpt_pinning_post (1).md
-- gpt_board_settings (1).md
+- gpt_pinning_post.md
+- gpt_board_settings.md
 - gpt_site_competition_voting.md
 
 ## Capabilities
