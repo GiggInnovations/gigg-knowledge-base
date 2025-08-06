@@ -13,7 +13,9 @@ The voting phase allows the public to vote on their favorite competition entries
 - During each round, users vote on approved entries
 - As rounds progress, fewer entries advance
 - The final round determines the winner(s) based on total votes
-- Admins can manually remove entries from any round to override vote-based outcomes
+- Admins can manually remove entries from any round to override vote-based outcomes.If an 
+  ![Screenrecording2025-08-061 08 54PM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/3720b61b-bc9b-4bd3-8901-e3e591606c85)
+
 
 ## Voting Behavior
 
@@ -24,6 +26,8 @@ The voting phase allows the public to vote on their favorite competition entries
 ## Advancing Rounds
 
 - When a voting round ends, the admin must manually click “Advance Challenge”
+  <img width="1615" height="446" alt="image" src="https://github.com/user-attachments/assets/c6c5db1e-11d8-4c66-b4c4-48a63238cc5e" />
+
 - Votes reset for the next round
 - A holding screen appears on the competition website stating that the next round will begin shortly
 
@@ -36,10 +40,18 @@ The voting phase allows the public to vote on their favorite competition entries
 
 - Users visit the Gigg challenge website during an active voting round
 - Approved entries are displayed as tiles
+  <img width="1918" height="907" alt="image" src="https://github.com/user-attachments/assets/d61cb5dc-2b04-49d8-9d38-25db7450d91f" />
+
 - Clicking a tile opens a popup with the entry’s media
+  ![Opening entry tile](https://github.com/user-attachments/assets/06e016f9-30f5-42f6-be03-ec0c21620962)
+
 - Users vote by clicking the “Vote for {Submission Name}” button next to the media
   - The button turns green to confirm the vote
+    ![Pressing the vote button](https://github.com/user-attachments/assets/908ac672-1f32-439b-9bdc-634ee78a8309)
+
   - Arrows allow navigation between entries in the popup
+    ![Navigate between entries](https://github.com/user-attachments/assets/cb29341a-e26c-4d7f-9204-0031ff4f6945)
+
 
 
 ## Winning
@@ -48,5 +60,7 @@ The voting phase allows the public to vote on their favorite competition entries
 - The challenge ends and the winner(s) are determined
 - Admins can remove entries from the current round to influence outcomes if needed
 - However, entries that did not advance from previous rounds cannot be brought back
-- Winners are automatically displayed on the site once chosen
+- Winner(s) are automatically displayed on the site once chosen
+  <img width="1907" height="912" alt="image" src="https://github.com/user-attachments/assets/2e429181-9e64-43ab-98f5-ec237b7a4ee6" />
+
 
