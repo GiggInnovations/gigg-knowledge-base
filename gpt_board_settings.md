@@ -67,7 +67,8 @@ Boards support multiple display types, each with its own customization options. 
 ### Video Display Types
 
 #### Single Post Display
-<img width="1912" height="895" alt="image" src="https://github.com/user-attachments/assets/dab0f11f-504c-4388-98d4-12b4786a5e2b" />
+<img width="1897" height="871" alt="image" src="https://github.com/user-attachments/assets/db926466-b2e2-413f-950b-6128a3d0b88b" />
+
 
 - **Toggles**:
   - Hide Captions
