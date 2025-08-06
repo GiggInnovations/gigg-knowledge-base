@@ -43,6 +43,7 @@ Pinning allows users to organize important content from the inbox into curated b
 ## Notes
 
 - The inbox defaults to showing unpinned posts
+- The UI for pinned posts operate exactly the same as unpinned posts.  For example, clicking the trash can icon will delete the post completely.
 - Use the filter icon in the inbox to switch between:
   - Pinned
   - Unpinned
