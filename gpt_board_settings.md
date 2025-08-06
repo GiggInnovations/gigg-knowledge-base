@@ -35,6 +35,7 @@ Boards support multiple display types, each with its own customization options. 
 ### Website Embed Display Types
 
 #### Grid View
+<img width="1852" height="851" alt="image" src="https://github.com/user-attachments/assets/85113e0a-95d8-4c6d-b8cc-7090d7f81f80" />
 
 - **Toggles**:
   - Show See More (**default: on**)
@@ -42,6 +43,7 @@ Boards support multiple display types, each with its own customization options. 
 - **Text Input**: `Posts per Load` (default and max: 20)
 
 #### Masonry View
+<img width="1912" height="390" alt="image" src="https://github.com/user-attachments/assets/109fdfcc-5bd9-484a-8b99-3a14c551db70" />
 
 - **Toggles**:
   - Show See More (**default: on**)
@@ -50,6 +52,7 @@ Boards support multiple display types, each with its own customization options. 
 - **Text Input**: `Posts per Load` (default and max: 15)
 
 #### Carousel View
+<img width="1912" height="914" alt="image" src="https://github.com/user-attachments/assets/16652e1d-54dc-411e-b8b7-13cf1c726a40" />
 
 - **Toggles**:
   - Carousel Slides Infinitely (**default: on**)
@@ -63,6 +66,7 @@ Boards support multiple display types, each with its own customization options. 
 ### Video Display Types
 
 #### Single Post Display
+<img width="1912" height="895" alt="image" src="https://github.com/user-attachments/assets/dab0f11f-504c-4388-98d4-12b4786a5e2b" />
 
 - **Toggles**:
   - Hide Captions
@@ -72,6 +76,7 @@ Boards support multiple display types, each with its own customization options. 
   - `CTA Image Frequency`
 
 #### Mosaic Display
+<img width="1912" height="461" alt="image" src="https://github.com/user-attachments/assets/fd18edf1-6339-48fd-9495-ee85557bf9d4" />
 
 - **Toggles**:
   - Callout CTA
