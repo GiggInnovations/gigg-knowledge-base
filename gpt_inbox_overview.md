@@ -7,6 +7,41 @@ tags: [inbox, social media, rss, boards, filtering]
 
 The inbox aggregates posts from YouTube, Instagram, X (formerly Twitter), and RSS feeds. These are organized and filtered based on user-defined keywords and settings.
 
+## Creating a Social Inbox
+
+New inboxes are created directly from the main dashboard. The setup steps mirror the options you’ll later find in **Inbox Settings**.
+
+1. **Start Creation**  
+   Click the **+ New** button in the top left, directly under the Gigg logo.  
+   Select **Create Inbox** from the menu. A creation modal will open.                                                                                        ![Begin Inbox Creation](https://github.com/user-attachments/assets/2c31c974-fb71-4c47-8b6f-4934e2630fdc)
+
+
+2. **Name Your Inbox**  
+   Enter a name for the inbox. 
+   <img width="961" height="362" alt="image" src="https://github.com/user-attachments/assets/e771d4e7-745b-4023-a7ce-c5b8e4438e4f" />
+
+   - **Next** moves to the next step.  
+   - **Finish** creates the inbox immediately without any connections or feeds.  
+   - **Cancel** stops the process at any time.  
+   *Next and Finish are only available after entering a name.*
+
+3. **Connect Accounts & Feeds**
+   The next step mirrors the **Inbox Settings > Connections** and **Inbox Settings > Feeds** pages:  
+   - **Connections**: Link Instagram, X (Twitter), or YouTube accounts. You can also add a Circle token to post from the inbox to Circle.                    ![Connections](https://github.com/user-attachments/assets/18332ef7-0a78-4606-a05f-a790664c5b40)                                                         
+   - **Feeds**: Add or delete RSS feed URLs.                                                                                                                 <img width="961" height="623" alt="image" src="https://github.com/user-attachments/assets/5343d6a5-6775-47ba-87d9-7c5996b7af3e" />
+ 
+   Use **Back**, **Cancel**, or **Next** to navigate. *Next is only clickable after adding at least one social account or RSS feed.*                     
+
+4. **Add Keywords**                                                                                                                                          <img width="961" height="714" alt="image" src="https://github.com/user-attachments/assets/719c2944-73ee-4cf6-a46b-0d3799c05816" />
+
+   This step mirrors the **Inbox Settings > General** keyword setup.  
+   Add 1–3 keywords (minimum of one) to pull in matching social posts.  
+   Use **Back**, **Cancel**, or **Get Started**. *Get Started is only clickable after entering at least one keyword.*
+
+5. **Finish & Open Inbox**  
+   Clicking **Get Started** creates the inbox and opens it immediately, showing incoming posts that match your setup.
+
+
 ## Social Media Posts
 
 - **Setup**:
