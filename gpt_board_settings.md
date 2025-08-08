@@ -53,7 +53,6 @@ Boards support multiple display types, each with its own customization options. 
 - **Text Input**: `Posts per Load` (default and max: 15)
 
 #### Carousel View
-<img width="1912" height="914" alt="image" src="https://github.com/user-attachments/assets/16652e1d-54dc-411e-b8b7-13cf1c726a40" />
 <img width="1912" height="390" alt="image" src="https://github.com/user-attachments/assets/109fdfcc-5bd9-484a-8b99-3a14c551db70" />
 - **Toggles**:
   - Carousel Slides Infinitely (**default: on**)
