@@ -5,6 +5,26 @@ tags: [competition, setup, admin, configuration]
 
 # How admins setup a site competition
 
+## Create a Site Competition
+
+Before you can configure a competition, you first need to create the competition itself.
+
+1. **Start Creation**  
+   Click the **+ New** button in the top left, directly under the Gigg logo.
+
+2. **Select Create Challenge**  
+   From the menu, select **Create Challenge**. A creation modal will open.  
+   ![Begin site competition creation](https://github.com/user-attachments/assets/2024ba6e-42b7-4c19-af63-00053e237cdc)
+
+3. **Name the Challenge & Options**  
+   A text box is provided to give the challenge a name.  
+   - **Cancel** — Stops the creation process at any time.  
+   - **Success Checker** — Opens a grader that predicts how successful the competition might be (optional).  
+   - **Create Challenge** — Creates the challenge immediately, even if no name is entered.
+     <img width="647" height="298" alt="image" src="https://github.com/user-attachments/assets/776117a2-b8e3-41d0-83ee-135fec23dba6" />
+
+ 
+
 
 ## Setup options in the "Type" tab:
 1. Find the setup options in Challenge Settings > Setup > Type. The "Challenge Submission Type" dropdown will have "Post Competition" selected by default. Click the dropdown and choose "Site Competition". Enter the required information ("Challenge Categories" and "Admin Phone Number") and click the Save button in the bottom right. This will cause all the setup tabs for a site competition to appear.
