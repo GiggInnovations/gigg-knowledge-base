@@ -107,12 +107,14 @@ Manage who can access and contribute to your competition. Users can be invited, 
 4. **Invite Multiple Users**  
    - Click **+ Invite another user** to add more rows.
    - Repeat the email and role selection steps.
+   - **-** icon allows for removal of a row if there is more than one
      ![Invite Multiple Users](https://github.com/user-attachments/assets/31d3f6a2-e5a9-41f2-89f2-ee0e8eaa6e89)
 
 
 5. **Send Invitations**  
    - Click **Invite** to send email invitations to all listed users.
      ![Send Invite](https://github.com/user-attachments/assets/84825dab-74fc-41bd-899b-865739044263)
+   - Click **Cancel** to stop invitation process
 
    - **If already in the org**: User is added instantly.
    - **If not in the org**: User must accept via email invite before gaining access.
