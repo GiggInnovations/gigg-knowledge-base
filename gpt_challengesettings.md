@@ -80,17 +80,135 @@ This section controls core details, sharing options, and high-level actions for 
 
 ## Competition Settings > Users
 
-Users can be added or removed
+Manage who can access and contribute to your competition. Users can be invited, assigned roles, or removed.
 
-### Invite User
+---
 
-- Click the button with a user icon and a **+** next to it.  This will open a modal used to invite new users.
-  - In the **User** textbox, enter the email of the user.
-  - Clicking the **Role** textbox will open a dropdown with choices of Admin, Member, and Viewer.
-  - **+ Invite another user** opens another row where another user can be added.
-  - The **Invite** button will send an emailed invitation to all entered users.  If they are already part of the org, they will be automatically added to the competition.  If not part of the org, user will need to accept the invite in the email to view the competition as a user.  They will appear in the **Pending** section until the invite is accepted.  All users who have accepted the invite will appear in the **Active** section.
-- Competition users are split up into three groups: Admins, Members, and Viewers.  Competition users can view the admin side of the competiton.
-  - Competition Admin: In addition to moderating Inbox and Board content, Admins have access to both Inbox and Board settings pages where they can enter and update keywords, invite other members to the Inbox and Boards, change permissions of Inbox and Board members, unblock social accounts and more.
-  - Competition Member: Moderate the Social Inbox, create and publish Boards, pin posts and display the Board in a number of ways. Inbox Members cannot access the Inbox settings page.
-  - Competition Viewer: Only has ability to display any published boards in the Inbox whether on a display or embedded on the web. They cannot access Social Inbox, Pinned, All Posts or Inbox Settings.
-- A user icon with a **-** next to it is adjacent to each user. Clicking this will open a modal asking for confirmation of the removal.  Click **Remove** to remove the user's access to the competition.
+### Invite a User
+
+1. **Click the Invite Button**  
+   - Icon: User silhouette with a **"+"** symbol.
+   - Opens an invitation modal.
+     ![Open user invite](https://github.com/user-attachments/assets/902e3de3-a053-446a-9b4b-2737b2420420)
+
+
+2. **Enter User Email**  
+   - Type the email address into the **User** text box.
+     <img width="926" height="392" alt="image" src="https://github.com/user-attachments/assets/dfa7f5e9-3cd0-4543-9bfd-712e2859115a" />
+
+3. **Assign Role**  
+   - Click the **Role** dropdown and choose:
+     <img width="926" height="392" alt="image" src="https://github.com/user-attachments/assets/487c78be-98c5-4076-b961-7af34263fd57" />
+
+     - **Admin**
+     - **Member**
+     - **Viewer**
+
+4. **Invite Multiple Users**  
+   - Click **+ Invite another user** to add more rows.
+   - Repeat the email and role selection steps.
+     ![Invite Multiple Users](https://github.com/user-attachments/assets/31d3f6a2-e5a9-41f2-89f2-ee0e8eaa6e89)
+
+
+5. **Send Invitations**  
+   - Click **Invite** to send email invitations to all listed users.
+     ![Send Invite](https://github.com/user-attachments/assets/84825dab-74fc-41bd-899b-865739044263)
+
+   - **If already in the org**: User is added instantly.
+   - **If not in the org**: User must accept via email invite before gaining access.
+   - Pending invites appear in the **Pending** section until accepted.
+     <img width="1605" height="601" alt="image" src="https://github.com/user-attachments/assets/cf0d859f-6c53-4801-a1ae-aaff44760f94" />
+
+   - Accepted invites appear in the **Active** section.
+     <img width="1605" height="612" alt="image" src="https://github.com/user-attachments/assets/4cd6eea2-a701-4317-8067-3523a570ac71" />
+
+
+---
+
+### User Roles & Permissions
+
+Competition users are divided into three groups.  
+All roles can view the **admin side** of the competition.
+
+#### **Admin**
+- Full access to Inbox and Board settings.
+- Can:
+  - Moderate Inbox and Board content.
+  - Add/update keywords.
+  - Invite/manage other users.
+  - Change user permissions.
+  - Unblock social accounts.
+
+#### **Member**
+- Can:
+  - Moderate the Social Inbox.
+  - Create and publish Boards.
+  - Pin posts.
+  - Display Boards in different formats.
+- **Cannot** access Inbox settings.
+
+#### **Viewer**
+- Can:
+  - Display any published Boards (on display or embedded on web).
+- **Cannot**:
+  - Access Social Inbox.
+  - View Pinned or All Posts.
+  - Access Inbox settings.
+
+---
+
+### Remove a User
+
+- Each user has a **Remove** button (user silhouette with a **"-"** symbol).
+- Clicking opens a confirmation modal.
+- Click **Remove** to revoke access.
+  ![Remove user](https://github.com/user-attachments/assets/aa879686-3e46-4d49-842c-2872c2623fd5)
+
+---
+
+## Display Options
+
+Control the visual style and branding for your competition.
+
+---
+
+### Color Settings
+
+- **Primary Color**:  
+  - Select from a color palette.  
+  - Used for buttons and some links throughout the competition UI.  
+  - Best practice: match your brand’s primary color.
+
+- **Light Theme**:  
+  - Toggle to enable a lighter version of the Challenge UI.
+
+- **Hide Gigg Logo**:  
+  - Toggle to remove the Gigg logo from the competition display.
+
+---
+
+### Logo
+
+- Upload a logo to be shown in all competition-related emails.
+- Methods:
+  - Drag-and-drop the image into the upload area.
+  - Click the upload area to select a file from your computer.
+- Ensure the logo is clear and sized appropriately for email layouts.
+
+---
+
+### Custom CSS Override
+
+- Add custom CSS rules to override default Challenge styles.
+- All elements in your Challenge use HTML classes prefixed with `public__`.
+- Add your CSS code directly in the **CSS Override** field.
+
+---
+
+## Reports
+
+- Exports are available for
+  - Voters
+  - Stats
+  - Entrants
+  - Referrals
