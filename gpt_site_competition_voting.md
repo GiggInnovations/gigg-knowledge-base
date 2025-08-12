@@ -56,11 +56,16 @@ The voting phase allows the public to vote on their favorite competition entries
 
 ## Winning
 
+- If the winner of the round is selected by votes, the entrants with the most votes move on
+- Round winners and final winners can also be selected by random choice or company choice.  This will depend on what the company has chosen in the "Rounds" setup tab.
+  <img width="1617" height="579" alt="image" src="https://github.com/user-attachments/assets/f9f04b8c-2081-4ca0-8152-c264426e6687" />
+
 - After the final round ends and “Advance Challenge” is clicked, an email is sent to the entrant(s) with the most votes
 - The challenge ends and the winner(s) are determined
 - Admins can remove entries from the current round to influence outcomes if needed
 - However, entries that did not advance from previous rounds cannot be brought back
 - Winner(s) are automatically displayed on the site once chosen
-  <img width="1907" height="912" alt="image" src="https://github.com/user-attachments/assets/2e429181-9e64-43ab-98f5-ec237b7a4ee6" />
+ <img width="1907" height="912" alt="image" src="https://github.com/user-attachments/assets/2e429181-9e64-43ab-98f5-ec237b7a4ee6" />
+  
 
 
