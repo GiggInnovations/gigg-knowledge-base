@@ -54,3 +54,7 @@ The submission round is the first phase of a Site Competition, where entrants up
 - **Enter Challenge**: Starts the entry process
 - **Vote**: Inactive until voting starts; includes a checkbox to opt-in for reminders
 - **Check Out Some Entries**: Displays accepted and visible entries
+
+## Note
+
+Competitions and challenges are the same thing.  There is no difference.
