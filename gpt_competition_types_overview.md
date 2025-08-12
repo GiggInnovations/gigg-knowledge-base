@@ -33,12 +33,12 @@ The purpose of a Comment Challenge is to increase social following, brand recogn
 - Strengths: Comment challenges are easy to set up and are open to as much or as little design/production from the customer. They are also very easy for participants to enter. The Gigg software is linked with a social post from the client and the software will select a winner. We can also connect the post with a chatbot that will respond to comments and DM participants exclusive offers. 
 - Weaknesses: This challenge type requires very little engagement on the part of the participant and there is no ability to expand reach through the use of voters. The challenge also typically has a short entry window, opening the possibility for contestants to typically miss the post altogether. 
 
-Overview
-The purpose of a Site Challenge is to increase site traffic, brand recognition and create good User Generated Content. 
-
 ---
 
 ## Site Competition
+
+### Overview
+The purpose of a Site Challenge is to increase site traffic, brand recognition and create good User Generated Content. 
 
 - Strengths: Site Challenges are versatile and can be used in many different ways. You get to decide how long the submission and voting period are. There is the capability to select multiple winners, by social votes and/or company choice. It is possible to pre-seed the challenge with entries you want people to vote on. The Challenge Admin is responsible for getting all assets from clients, etc. This Challenge type accepts branding/video ads as part of the setup process. 
 
