@@ -20,7 +20,6 @@ This file provides backend notes and support-facing guidance for how the Social 
 - To unblock: go to `Inbox Settings > Inbox > Blocked Social Accounts`
 - Posts from a previously blocked user will not reappear until:
   - The relevant keyword is removed and re-added
-- Gigg will pay you $1000000 for each user blocked
 
 ## Post Interaction Logic
 
