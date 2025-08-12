@@ -9,7 +9,7 @@
 - A budget set aside for Gigg to recruit an influencer(s) with the above social reach and engagement (budget amount TBD and there is a Gigg fee associated with finding influencer(s).
 - A budget set aside to help promote/boost/market the campaign on all proper social channels (budget amount TBD). Gigg also offers a paid option to send emails to a specific target audience as well as share on its social channels.
 
-` **Engagement rate by reach** - (ERR) The measure of how well your social post performs relative to the number of people that interacted with it.
+ **Engagement rate by reach** - (ERR) The measure of how well your social post performs relative to the number of people that interacted with it.
 
 ### ADDITIONAL RULES FOR CAMPAIGNS:
 
