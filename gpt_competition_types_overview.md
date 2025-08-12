@@ -52,3 +52,6 @@ The purpose of a Site Challenge is to increase site traffic, brand recognition a
 
 - Ultimately, there are lots of variations you can do with a Site Challenge. When setting these up, we recommend working closely with the CS team to understand what is best for your upcoming Challenge.
 
+## Note
+Campaigns are treated the same as competitions and challenges.  All 3 are synonomous
+
