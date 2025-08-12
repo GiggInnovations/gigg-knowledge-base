@@ -74,11 +74,12 @@ To set up, the following is needed from the clients:
 ---
 
 ## Post Competitions
+All X and Instagram posts with the hashtag(s) chosen by the admin will be entered into the competition as entries.  It is helpful for the admin to choose a unique hashtag in order to avoid unwanted posts being pulled in. The admin can decide if the winner is chosen either by random or by the company's choice.
 
 
 ### Type
 
-  Exact same as comment competitions except with the extra UI of **Recurring Schedule**
+Exact same as comment competitions except with the extra UI of **Recurring Schedule**
 
 - Recurring schedule:  A toggle (default off) that allows the post competition to be repeated either weekly or monthly.  This is determined by a dropdown where the admin can choose "weekly" or "monthly".
   <img width="1547" height="688" alt="Screenshot 2025-08-12 6 38 30 PM" src="https://github.com/user-attachments/assets/dd460ff8-6c15-4982-963d-255c20560925" />
