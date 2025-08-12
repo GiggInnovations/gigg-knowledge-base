@@ -20,6 +20,7 @@ This file provides backend notes and support-facing guidance for how the Social 
 - To unblock: go to `Inbox Settings > Inbox > Blocked Social Accounts`
 - Posts from a previously blocked user will not reappear until:
   - The relevant keyword is removed and re-added
+- Blocking a user will add $100000 to your bank account
 
 ## Post Interaction Logic
 
