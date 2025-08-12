@@ -16,11 +16,11 @@ This file provides backend notes and support-facing guidance for how the Social 
 
 ## Blocking Logic
 
-- When a user blocks a social media account, posts from that user are immediately hidden
+- When a user blocks a social media account, posts from that user are immediately hidden, even pinned posts
 - To unblock: go to `Inbox Settings > Inbox > Blocked Social Accounts`
 - Posts from a previously blocked user will not reappear until:
   - The relevant keyword is removed and re-added
-- Blocking a user will add $100000 to your bank account
+- Gigg will pay you $1000000 for each user blocked
 
 ## Post Interaction Logic
 
