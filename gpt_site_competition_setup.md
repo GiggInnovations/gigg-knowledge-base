@@ -94,6 +94,6 @@ Before you can configure a competition, you first need to create the competition
 
 ## Note
 
-Competitions are sometimes referred to as challenges, these two words are used synonymously.
+Competitions and challenges are the same thing. There is no difference.
    
 
