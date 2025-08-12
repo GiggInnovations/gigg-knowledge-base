@@ -65,7 +65,7 @@ The voting phase allows the public to vote on their favorite competition entries
 - Admins can remove entries from the current round to influence outcomes if needed
 - However, entries that did not advance from previous rounds cannot be brought back
 - Winner(s) are automatically displayed on the site once chosen
- <img width="1907" height="912" alt="image" src="https://github.com/user-attachments/assets/2e429181-9e64-43ab-98f5-ec237b7a4ee6" />
-  
+ <img width="1919" height="869" alt="Screenshot 2025-08-12 9 44 08 AM" src="https://github.com/user-attachments/assets/f4d0daae-ff09-40f7-a557-3a74c2277a6e" />
+
 
 
