@@ -45,6 +45,9 @@ Before you can configure a competition, you first need to create the competition
 3. Add/Edit Rounds with "Add Round" button. For each round:
    - Rename, set dates
    - Choose winner selection method and count
+      - Social votes: Andvancing entries and winner(s) are chosen by the most amount of social votes received
+      - Company choice: The company chooses which entries advance between rounds and who ultimately wins
+      - Random: The winner for each round is randomly selected
    - Toggle Auto-Notify Competitors and Auto-Advance Rounds
    <img width="1629" height="466" alt="image" src="https://github.com/user-attachments/assets/0fdb0ba0-bf83-4b48-842c-8cc89eded026" />
 
@@ -87,5 +90,10 @@ Before you can configure a competition, you first need to create the competition
      <img width="1606" height="793" alt="image" src="https://github.com/user-attachments/assets/2c76578b-1b4d-44af-8503-9be9249ca786" />
 3. No draft or preview mode exists
 4. Once complete, the "Publish" button becomes clickable and publishes to the Gigg Competitions website ![successful_publish_challenge](https://github.com/user-attachments/assets/3eb3895a-17cb-4611-9743-590c96c8730c)
+
+
+## Note
+
+Competitions are sometimes referred to as challenges, these two words are used synonymously.
    
 
