@@ -104,7 +104,7 @@ A social site competition is a combination of a site competition and a post comp
 - Connect an Instagram, X, and/or Circle account.
 <img width="1585" height="765" alt="image" src="https://github.com/user-attachments/assets/50aac66f-80f5-4472-ae43-58c17e476fd3" />
 
-- Any Instagram or X account connected here is the account participants will have to tag if they want their social media post to become an entry to the competition. This provides an additional option to submit posts to the competition.
+- Any Instagram or X account connected here is the account participants will have to tag if they want their social media post to become an entry to the competition. This is the only way for entries to be submitted to a social site competition
 - Connecting a Circle token will allow posts to be posted to Circle.  Posting to Circle is done in the same way as in Social Inboxes.
 
 ---
