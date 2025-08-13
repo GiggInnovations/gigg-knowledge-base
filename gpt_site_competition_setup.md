@@ -94,14 +94,14 @@ Before you can configure a competition, you first need to create the competition
 ---
 
 # How admins create a Social Site Competition
-All steps are almost exactly the same as in a Site competition.  There is one just addidtional tab, the **Social** tab, which allows the admin to connect an Instagram, X, or Circle account.
+All steps are almost exactly the same as in a Site competition.  There is one just addidtional tab, the **Social** tab, which allows the admin to connect an Instagram, X, or Circle account.  It is basically a combination of a site competition and a post competition
 
 ## Social Tab
 
 - Connect an Instagram, X, and/or Circle account.
 <img width="1585" height="765" alt="image" src="https://github.com/user-attachments/assets/50aac66f-80f5-4472-ae43-58c17e476fd3" />
 
-- Any Instagram or X account connected here is the account participants will have to tag if they want their social media post to become an entry to the competition
+- Any Instagram or X account connected here is the account participants will have to tag if they want their social media post to become an entry to the competition. This provides an additional option to submit posts to the competition.
 - Connecting a Circle token will allow posts to be posted to Circle.  Posting to Circle is done in the same way as in Social Inboxes.
 
 ---
