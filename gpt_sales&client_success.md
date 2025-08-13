@@ -50,34 +50,25 @@ Once the client has:
   3. Confirmed that timing is not an issue, then 
 
   A deal must be created in HubSpot. To do so: 
-  - Search for the company in HubSpot. If the company does not exist, create it and include as much of the information as possible.
-  - Create the deal in HubSpot
+    1. Search for the company in HubSpot. If the company does not exist, create it and include as much of the information as possible.
+    2. Create the deal in HubSpot
     - Give the deal a name other than the company name. Also include the month and year of the contract expiration.  
     - Ex) “3 Challenges - JULY 2024” or “Trick Shot Tour - August 2023”
-  - Attach the deal to the Company.
-  - Attach the correct contacts to both the company and to the deal.
-  - Move the deal into the correct stage of the “Sales” pipeline.
+    3. Attach the deal to the Company.
+    4. Attach the correct contacts to both the company and to the deal.
+    5. Move the deal into the correct stage of the “Sales” pipeline.
 
 ## Passing a New Client Off to Client Success
 Once the deal is closed: 
 
-- Create a ticket with “[Company Name] - Onboarding” as the ticket name.  
-- Assign it to your CS contact.
+1. Create a ticket with “[Company Name] - Onboarding” as the ticket name.  
+2. Assign it to your CS contact.
   - Ex) “Taylor Guitars - Onboarding” assigned to “Lexi Davis”.
-- Schedule and attend a handoff call that includes the contacts from the company, your client success manager, and yourself. The call should cover the following topics:
+3. Schedule and attend a handoff call that includes the contacts from the company, your client success manager, and yourself. The call should cover the following topics:
   - Contract Terms (What they purchased)
   - Contract Scope of Work (if applicable)
   - Who the points of contact are for campaigns, billing, etc.
   - What the client’s desired outcome is while working with Gigg.
   - Any campaign ideas that have been discussed.
-
-
-
-
-
-
-CS Only - Make sure to upload the contract and attach it to the deal.
+- CS Only - Make sure to upload the contract and attach it to the deal.
 For onboarding a client, create a ticket and mark it done once onboarding is complete.
-
-
-Sales Handoff to Client Success
