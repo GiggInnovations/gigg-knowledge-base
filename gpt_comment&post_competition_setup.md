@@ -74,7 +74,7 @@ To set up, the following is needed from the clients:
 ---
 
 ## Post Competitions
-All X and Instagram posts with the hashtag(s) chosen by the admin will be entered into the competition as entries.  It is helpful for the admin to choose a unique hashtag in order to avoid unwanted posts being pulled in. The admin can decide if the winner is chosen either by random or by the company's choice.
+All X and Instagram posts that tag the account connected in the **Social** tab will be pulled into the competition.  These are the competition entries. The admin can decide if the winner is chosen either by random or by the company's choice.
 
 
 ### Type
