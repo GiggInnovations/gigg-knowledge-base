@@ -67,9 +67,12 @@ The voting phase allows the public to vote on their favorite competition entries
 - Winner(s) are automatically displayed on the site once chosen
  <img width="1370" height="869" alt="Screenshot 2025-08-12 9 47 27 AM" src="https://github.com/user-attachments/assets/35dfb323-53bd-44c2-9e33-36097c242b24" />
 
+---
 
- ## Note
- A competition is a challenge.  They are completely synonymous.
+ ## Notes
+
+ - This same flow is followed by social site competitions.
+ - A competition is a challenge.  They are completely synonymous.
 
 
 
