@@ -91,6 +91,14 @@ Before you can configure a competition, you first need to create the competition
 3. No draft or preview mode exists
 4. Once complete, the "Publish" button becomes clickable and publishes to the Gigg Competitions website ![successful_publish_challenge](https://github.com/user-attachments/assets/3eb3895a-17cb-4611-9743-590c96c8730c)
 
+---
+
+# How admins create a Social Site Competition
+All steps are almost exactly the same as in a Site competition.  There is one just addidtional tab, the **Social** tab, which allows the admin to connect an Instagram, X, or Circle account.
+
+## How to connect a Social Account
+
+---
 
 ## Note
 
