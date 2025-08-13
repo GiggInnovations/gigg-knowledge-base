@@ -94,7 +94,7 @@ Before you can configure a competition, you first need to create the competition
 ---
 
 # How admins create a Social Site Competition
-All steps are almost exactly the same as in a Site competition.  There is one just addidtional tab, the **Social** tab, which allows the admin to connect an Instagram, X, or Circle account.  
+All steps are almost exactly the same as in a Site competition.  There is one addidtional tab, the **Social** tab, which allows the admin to connect an Instagram, X, or Circle account.  There is also no **Submissions** tab or **Messaging** tab.
 
 ## What is a Social Site Competition
 A social site competition is a combination of a site competition and a post competition.  Entries are submitted by tagging the account connected in the **Social** tab of the competition in their social media post.  These entries then go through the same voting/selection process as entries from a site competition.
