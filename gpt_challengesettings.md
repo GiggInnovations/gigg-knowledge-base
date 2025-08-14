@@ -88,18 +88,16 @@ Manage who can access and contribute to your competition. Users can be invited, 
 
 1. **Click the Invite Button**  
    - Icon: User silhouette with a **"+"** symbol.
-   - Opens an invitation modal.
+   - Opens an invitation modal.  
      ![Open user invite](https://github.com/user-attachments/assets/902e3de3-a053-446a-9b4b-2737b2420420)
 
-
 2. **Enter User Email**  
-   - Type the email address into the **User** text box.
-     <img width="926" height="392" alt="image" src="https://github.com/user-attachments/assets/dfa7f5e9-3cd0-4543-9bfd-712e2859115a" />
+   - Type the email address into the **User** text box.  
+     ![image](https://github.com/user-attachments/assets/dfa7f5e9-3cd0-4543-9bfd-712e2859115a)
 
 3. **Assign Role**  
-   - Click the **Role** dropdown and choose:
-     <img width="926" height="392" alt="image" src="https://github.com/user-attachments/assets/487c78be-98c5-4076-b961-7af34263fd57" />
-
+   - Click the **Role** dropdown and choose:  
+     ![image](https://github.com/user-attachments/assets/487c78be-98c5-4076-b961-7af34263fd57)
      - **Admin**
      - **Member**
      - **Viewer**
@@ -107,23 +105,21 @@ Manage who can access and contribute to your competition. Users can be invited, 
 4. **Invite Multiple Users**  
    - Click **+ Invite another user** to add more rows.
    - Repeat the email and role selection steps.
-   - **-** icon allows for removal of a row if there is more than one
+   - **-** icon allows for removal of a row if there is more than one  
      ![Invite Multiple Users](https://github.com/user-attachments/assets/31d3f6a2-e5a9-41f2-89f2-ee0e8eaa6e89)
 
-
 5. **Send Invitations**  
-   - Click **Invite** to send email invitations to all listed users.
+   - Click **Invite** to send email invitations to all listed users.  
      ![Send Invite](https://github.com/user-attachments/assets/84825dab-74fc-41bd-899b-865739044263)
    - Click **Cancel** to stop invitation process
 
    - **If already in the org**: User is added instantly.
    - **If not in the org**: User must accept via email invite before gaining access.
-   - Pending invites appear in the **Pending** section until accepted.
-     <img width="1605" height="601" alt="image" src="https://github.com/user-attachments/assets/cf0d859f-6c53-4801-a1ae-aaff44760f94" />
+   - Pending invites appear in the **Pending** section until accepted.  
+     ![image](https://github.com/user-attachments/assets/cf0d859f-6c53-4801-a1ae-aaff44760f94)
 
-   - Accepted invites appear in the **Active** section.
-     <img width="1605" height="612" alt="image" src="https://github.com/user-attachments/assets/4cd6eea2-a701-4317-8067-3523a570ac71" />
-
+   - Accepted invites appear in the **Active** section.  
+     ![image](https://github.com/user-attachments/assets/4cd6eea2-a701-4317-8067-3523a570ac71)
 
 ---
 
@@ -163,7 +159,7 @@ All roles can view the **admin side** of the competition.
 
 - Each user has a **Remove** button (user silhouette with a **"-"** symbol).
 - Clicking opens a confirmation modal.
-- Click **Remove** to revoke access.
+- Click **Remove** to revoke access.  
   ![Remove user](https://github.com/user-attachments/assets/aa879686-3e46-4d49-842c-2872c2623fd5)
 
 ---
@@ -209,7 +205,7 @@ Control the visual style and branding for your competition.
 
 ## Reports
 
-- Exports are available for
+- Exports are available for:
   - Voters
   - Stats
   - Entrants
