@@ -8,10 +8,12 @@ tags: [boards, customization, embed, display]
 Boards support multiple display types, each with its own customization options. These can be accessed via **Board Settings**.
 
 ## Accessing Board Settings
-![Open Board Settings](https://github.com/user-attachments/assets/05f0f916-ccd7-4238-b21d-ce62868b844a)
+
 1. Navigate to a board  
-2. Click the **three-dot menu** in the top right corner  
-3. Select **Board Settings** from the side panel  
+2. Click the **three-dot menu** in the top right corner
+   ![image](https://github.com/user-attachments/assets/e386a71a-03d0-44ea-9841-856a5096f462)
+  
+4. Select **Board Settings** from the side panel  
 
 
 ## Display Options
