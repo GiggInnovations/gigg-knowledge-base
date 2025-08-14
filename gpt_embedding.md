@@ -3,27 +3,39 @@ audience: user
 tags: [embedding, boards, public submissions, iframe]
 ---
 
-# Embedding Boards and Submission Forms
+# Embedding Boards and Public Submission Forms
 
-Boards and public submission forms can be embedded directly into a website via iframe code.
+Boards and Public Submission forms can be embedded into websites using iframe code generated inside Gigg.
 
-## Embedding Boards
+---
 
-- After publishing a board, open the menu (three-dot icon)
-- Click **Display Board** and select one of three views: Standard, Carousel, or Masonry
-- A `</>` button will appear—click to copy the iframe code
-  ![board_embed_link](https://github.com/user-attachments/assets/6ad5d915-ba50-42ef-b7d3-2e3070e46bbf)
-- Paste the iframe into your website to display the board
+## Embedding a Board
 
-## Embedding Public Submission Form
+1. Navigate to the board you want to embed.
+2. Click **Display Board**.
+3. Choose the desired **Display Type**:
+   - Standard
+   - Masonry
+   - Carousel
+4. Click the `</>` icon to copy the embed code.  
+   ![Copy embed code button](https://github.com/user-attachments/assets/4e4dc9c0-ecf5-456b-8d77-d3a1e9377f7f)
 
-- Go to `Inbox Settings > Public Submission`
-- Scroll to the section titled **Public Submission Form Embed Code**
-- Click **Copy Embed Code** to copy the iframe to your clipboard
-  ![public_submissions_embed](https://github.com/user-attachments/assets/37c76213-1352-42eb-88f0-91c852e2a12d)
-- Embed this code on any site to allow form access without leaving the page
+5. Paste the embed code into your site’s HTML where you want the board to appear.
 
-## Notes
+---
 
-- The form and board update automatically as settings or content change
-- Use preview to check layout before embedding
+## Embedding a Public Submission Form
+
+1. Go to `Inbox Settings > Public Submission`.
+2. Customize the form fields, header, description, and terms.
+3. Click the `</>` icon to copy the embed iframe code.  
+   ![Public submission form embed button](https://github.com/user-attachments/assets/fd7ac5d2-30d2-4a25-a9f0-b8a6554799ef)
+
+4. Paste the iframe code into your website’s HTML where the form should appear.
+
+---
+
+## Embed Code Example
+
+```html
+<iframe src="https://embed.gigg.com/board/example" width="100%" height="800" style="border:none;"></iframe>
