@@ -13,7 +13,9 @@ Boards support multiple display types, each with its own customization options. 
 2. Click the **three-dot menu** in the top right corner
    ![image](https://github.com/user-attachments/assets/e386a71a-03d0-44ea-9841-856a5096f462)
   
-4. Select **Board Settings** from the side panel  
+3. Select **Board Settings** from the side panel
+  ![image](https://github.com/user-attachments/assets/f1833f20-05b3-41be-91f3-36a22bdc0ab9)
+
 
 
 ## Display Options
