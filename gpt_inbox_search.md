@@ -15,16 +15,14 @@ The search bar helps locate specific posts in the social inbox by keyword, platf
 
 ## How It Works
 
-- **Keyword Search**: Only shows posts matching the selected keyword
+- **Keyword Search**: Only shows posts matching the selected keyword  
   ![Keyword search](https://github.com/user-attachments/assets/0a55e945-d050-40fb-b0bf-b48909834770)
 
-- **Text Search**: Filters posts containing the entered text
+- **Text Search**: Filters posts containing the entered text  
   ![Text Search](https://github.com/user-attachments/assets/3e27402b-4f32-449e-a16e-9ea20c21032e)
 
-- **Platform Filter**: Displays posts from a specific platform (e.g., Instagram, YouTube)
+- **Platform Filter**: Displays posts from a specific platform (e.g., Instagram, YouTube)  
   ![Platform Filter](https://github.com/user-attachments/assets/f34fb81e-2ed3-401e-9d4d-3050cdb4779b)
-
-  
 
 ## User Actions
 
