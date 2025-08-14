@@ -50,7 +50,10 @@ New inboxes are created directly from the main dashboard. The setup steps mirror
     - Then add 1–3 keywords in `Inbox Settings > General`. At least one keyword is required to pull in media.  
       ![image](https://github.com/user-attachments/assets/f935702c-fcea-48b9-b035-9ac1855dd16f)
 
-- **Display**: Top media per keyword shown. Each post has its own row, posts are defaultly displayed based on how recently they were created. There is no separation based on keyword.
+- **Display**:  Each post has its own row, posts are defaultly displayed based on how recently they were created. There is no separation based on keyword.
+   - For Instagram posts, the top media per keyword is shown when first added.  After the first fetch, the newset posts are pulled in at each refresh.
+   - For X and YouTube posts, the posts are fetched chronologically with no regard to how popular the post is.
+
 - **Actions**:
   - Delete posts
   - Pin to one or more boards
@@ -62,7 +65,8 @@ New inboxes are created directly from the main dashboard. The setup steps mirror
 - **Setup**: Add RSS URLs in `Inbox Settings > Feeds`.  
   ![Adding an RSS URL](https://github.com/user-attachments/assets/d6ae77f7-7d4f-4a40-97d3-e2b522ae08fa)
 
-- **Display**: Shows all posts from the feed, independent of keyword settings.  
+- **Display**: Shows all posts from the feed, independent of keyword settings.
+   - The posts are fetched chronologically with no regard to how popular the post is.
   ![image](https://github.com/user-attachments/assets/f42c78f3-8b44-465e-8f8d-a289f03ac598)
 
 - **Actions**: Same as social media posts—delete, pin, and search.
