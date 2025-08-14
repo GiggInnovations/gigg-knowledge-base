@@ -64,6 +64,7 @@ Workspace within an org used to pull and manage social and RSS content.
 Users who belong to multiple organizations can easily switch their working context.
 
 ## Steps to Switch Orgs
+![Switching Between Orgs](https://github.com/user-attachments/assets/a6c64ed5-5361-4225-8735-96e8b5390346)
 
 1. **Click the User Icon**  
    - Located in the bottom left corner of the screen  
