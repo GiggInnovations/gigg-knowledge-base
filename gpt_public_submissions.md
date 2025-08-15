@@ -25,10 +25,12 @@ Public Submissions allow anyone to contribute posts without using social media, 
 - **Description**: Optional subtext below the heading
 - **Terms**: Custom terms & conditions with optional default message
 - **Image**: Upload a custom image to appear at the top
-- **Embed Code**: Copy iframe to embed the form on any site
+- **Embed Code**: Copy iframe to embed the form on any site by clicking **Copy Embed Code** button
 - **Form Fields**:
   - Visibility and requirement toggles for Name, Message, Media Type, Email, Phone, and Terms
   - Media field supports images, videos, or both
+    ![Form Fields UI](https://github.com/user-attachments/assets/b4e72383-8063-4185-9ddd-630bb2d4fdf3)
+
 - **CSS Overrides**: Apply custom styles using predefined Gigg variables
 
 ## User Actions
