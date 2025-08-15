@@ -16,7 +16,7 @@ Follow these rules:
 - Split into multiple files when topics diverge
 - Keep sentences short and clear
 - Do not invent product features — ask for clarification if needed
-- Never create your own images
+- Never create your own images, or add image icons if a screenshot is missing
 - Every explanation must have its matching screenshot or media shown immediately after — no exceptions.
 - Every feature walk through automatically includes the matching screenshots from source docs
 - Media must be shown inline with the relevant step or explanation.
