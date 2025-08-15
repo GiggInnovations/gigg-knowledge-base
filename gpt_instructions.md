@@ -45,6 +45,10 @@ Follow these rules:
 - gpt_pinning_post.md
 - gpt_board_settings.md
 - gpt_site_competition_voting.md
+- gpt_comment&post_competition_setup.md
+- gpt_competition_types_overview.md
+- gpt_challengesettings.md
+- gpt_sales&client_success.md
 
 ## Capabilities
 - Web search
