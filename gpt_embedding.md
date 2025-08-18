@@ -11,16 +11,21 @@ Boards and Public Submission forms can be embedded into websites using iframe co
 
 ## Embedding a Board
 
-1. Navigate to the board you want to embed.
-2. Click **Display Board**.
-3. Choose the desired **Display Type**:
+1. Navigate to the board you want to embed through the **Boards** dropdown on the left of the screen.                                                       ![Boards dropdown](https://github.com/user-attachments/assets/e67ce9fc-2e36-401b-991f-d414b59c9af1)
+
+2. Click the 3 vertical dots menu button at the top right of the screen.                                                                                     ![Board Menu Button](https://github.com/user-attachments/assets/fe4f0af0-d029-4386-9394-c02e24d50736)
+
+3. Make sure the board is Published. 
+4. Click **Display Board**.
+5. Choose the desired **Display Type**:
    - Standard
    - Masonry
    - Carousel
-4. Click the `</>` icon to copy the embed code.  
-   ![Copy embed code button](https://github.com/user-attachments/assets/4e4dc9c0-ecf5-456b-8d77-d3a1e9377f7f)
+6. Click the `</>` icon to copy the embed code.  
+   ![Copy embed code button](https://github.com/user-attachments/assets/ea661939-1482-4605-877d-ce08088307bf)
 
-5. Paste the embed code into your site’s HTML where you want the board to appear.
+
+7. Paste the embed code into your site’s HTML where you want the board to appear.
 
 ---
 
@@ -29,9 +34,8 @@ Boards and Public Submission forms can be embedded into websites using iframe co
 1. Go to `Inbox Settings > Public Submission`.
 2. Customize the form fields, header, description, and terms.
 3. Click the `</>` icon to copy the embed iframe code.  
-   ![Public submission form embed button](https://github.com/user-attachments/assets/fd7ac5d2-30d2-4a25-a9f0-b8a6554799ef)
+   ![Public submission form embed button](https://github.com/user-attachments/assets/2d1fc2bf-af97-4b55-94ab-71cbb6add654)
 
-4. Paste the iframe code into your website’s HTML where the form should appear.
 
 ---
 
