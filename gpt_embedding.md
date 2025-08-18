@@ -22,7 +22,8 @@ Boards and Public Submission forms can be embedded into websites using iframe co
    - Masonry
    - Carousel
 6. Click the `</>` icon to copy the embed code.  
-   ![Copy embed code button](https://github.com/user-attachments/assets/ea661939-1482-4605-877d-ce08088307bf)
+   ![Copy Embed code button](https://github.com/user-attachments/assets/ee7d418f-1490-4192-ab12-69aee3df7dfa)
+
 
 
 7. Paste the embed code into your site’s HTML where you want the board to appear.
@@ -33,7 +34,7 @@ Boards and Public Submission forms can be embedded into websites using iframe co
 
 1. Go to `Inbox Settings > Public Submission`.
 2. Customize the form fields, header, description, and terms.
-3. Click the `</>` icon to copy the embed iframe code.  
+3. Click the **Copy Embed Code** button to copy the embed iframe code.  
    ![Public submission form embed button](https://github.com/user-attachments/assets/2d1fc2bf-af97-4b55-94ab-71cbb6add654)
 
 
