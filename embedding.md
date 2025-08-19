@@ -24,9 +24,12 @@ An embed code for boards and for public submission forms allows these iframes to
   ![Public submissions embed](https://github.com/user-attachments/assets/f99c7c5e-ef0c-4b94-9e88-ef02a92ae27c)
 
 - Embedding this code will allow the public submission form to be filled out directly from the client's website.  As the toggles change in Public Submission, the form changes with it.
+  ![Embedded iframe](https://github.com/user-attachments/assets/3d56882c-1e3c-4b89-ac15-b185f9c3a99d)
+
 
 ### Competitions
 - After clicking **Publish** in the finalize tab, a modal appears.  There is a button for **Copy Embed Code**. 
   ![Embed Button for Site competitions](https://github.com/user-attachments/assets/da9e5713-1222-4528-95f2-2699a2b1101b)
+- This allows the competition/voting iframe to be embedded into the user's website
 
 
