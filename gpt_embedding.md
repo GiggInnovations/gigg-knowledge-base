@@ -40,6 +40,14 @@ Boards and Public Submission forms can be embedded into websites using iframe co
 
 ---
 
+## Competitions
+- After clicking **Publish** in the finalize tab, a modal appears.  There is a button for **Copy Embed Code**. 
+  ![Embed Button for Site competitions](https://github.com/user-attachments/assets/da9e5713-1222-4528-95f2-2699a2b1101b)
+- This allows the competition/voting iframe to be embedded into the user's website
+  ![Embedded iframe](https://github.com/user-attachments/assets/3d56882c-1e3c-4b89-ac15-b185f9c3a99d)
+
+---
+  
 ## Embed Code Example
 
 ```html
