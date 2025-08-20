@@ -7,7 +7,7 @@ tags: [competition, challenge settings, general]
 
 ## Challenge Settings > General
 
-This section controls core details, sharing options, and high-level actions for your competition.
+This section controls core details, sharing options, and high-level actions for your competition. Takes place in Gigg.
 
 ---
 
