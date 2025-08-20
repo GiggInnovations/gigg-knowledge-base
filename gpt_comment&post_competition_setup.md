@@ -20,10 +20,10 @@ Function the exact same as the rounds of a site competition. The only difference
 
 ### Social
 
-- Connect an Instagram, X, and/or Circle account  
+1. Connect an Instagram, X, and/or Circle account  
 ![image](https://github.com/user-attachments/assets/be6036c8-3bb3-459d-9cac-cebfb4a5e1b5)
 
-- Select a post from the connected Instagram or X account. This is the post that participants will comment on.  
+2. Select a post from the connected Instagram or X account. This is the post that participants will comment on.  
 ![image](https://github.com/user-attachments/assets/c5034b55-3eb2-418e-8f21-c4a63d51fdfd)
 
 - Connecting a Circle account will allow submissions to be uploaded to Circle.
