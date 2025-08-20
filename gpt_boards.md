@@ -5,7 +5,7 @@ tags: [boards, pinning, custom posts, publishing]
 
 # Boards Overview
 
-Boards are collections of curated posts pinned from the inbox. They can be used to display media on a website or cast content to a screen.
+Boards are collections of curated posts pinned from the inbox. They can be used to display media on a website or cast content to a screen. Takes place in GIgg.
 
 ## Key Features
 
