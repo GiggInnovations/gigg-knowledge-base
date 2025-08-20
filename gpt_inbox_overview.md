@@ -93,7 +93,8 @@ New inboxes are created directly from the main dashboard. The setup steps mirror
   ![Block_user](https://github.com/user-attachments/assets/b0becd7e-cd67-4d03-90c6-ac389b5b3547)
 
 - **Post to Circle**: If connected, use Circle icon and choose spaces  
-  ![image](https://github.com/user-attachments/assets/6a518f36-2ebe-469a-8361-624a1c771177)
+ ![Post to Circle](https://github.com/user-attachments/assets/b013a06c-fdb7-48a3-bb42-d1d8e30fb4ce)
+
 
 - **Multi-Select**: Click checkbox on left; bulk delete, pin, or block  
   ![Multi-select](https://github.com/user-attachments/assets/633fd06a-2f88-41dc-aae9-c9e128e25d70)
