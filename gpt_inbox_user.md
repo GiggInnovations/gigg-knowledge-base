@@ -5,7 +5,7 @@ tags: [inbox, social media, rss, boards, filtering]
 
 # Inbox Overview
 
-The inbox is where posts from YouTube, Instagram, X (Twitter), and RSS feeds are collected and managed.
+The inbox is where posts from YouTube, Instagram, X (Twitter), and RSS feeds are collected and managed.  Takes place in Gigg.
 
 ## Setup Instructions
 
