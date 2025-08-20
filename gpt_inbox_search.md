@@ -5,7 +5,7 @@ tags: [inbox, search, filtering]
 
 # Inbox Search
 
-The search bar helps locate specific posts in the social inbox by keyword, platform, or text content.
+The search bar helps locate specific posts in the social inbox by keyword, platform, or text content.  Takes place in Gigg.
 
 ## Key Features
 
