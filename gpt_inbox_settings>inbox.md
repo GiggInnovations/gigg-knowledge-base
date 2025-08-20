@@ -72,7 +72,7 @@ Each filter (Keywords, Blocked Words, Required Words, Whitelisted Usernames) has
 - **Blocked Words** override all other filters, including whitelisted usernames.  
 - **Required Words** and **Whitelisted Usernames** work together:  
   - If both filters are used, a post must meet **both** conditions to appear.  
-- Only adding a keyword triggers a new pull of posts; changes to filters alone do not refresh existing content.
+- Changes to filters (whether adding or deleting words) refresh existing content.
 
 ---
 
