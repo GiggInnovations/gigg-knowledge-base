@@ -5,7 +5,7 @@ tags: [inbox, social media, rss, boards, filtering]
 
 # Creating a Social Inbox
 
-New inboxes are created directly from the main dashboard. The setup steps mirror the options you’ll later find in **Inbox Settings**.
+New inboxes are created directly from the main dashboard. The setup steps mirror the options you’ll later find in **Inbox Settings**.  Takes place in Gigg.
 
 1. **Start Creation**  
    Click the **+ New** button in the top left, directly under the Gigg logo.  
