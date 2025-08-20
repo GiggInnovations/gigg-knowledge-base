@@ -24,7 +24,7 @@ The voting phase allows the public to vote on their favorite competition entries
 
 ## Advancing Rounds
 
-- When a voting round ends, the admin must manually click “Advance Challenge”  
+- When a voting round ends, the admin must manually click “Advance Challenge” in Gigg
   ![image](https://github.com/user-attachments/assets/c6c5db1e-11d8-4c66-b4c4-48a63238cc5e)
 
 - Votes reset for the next round
@@ -32,10 +32,10 @@ The voting phase allows the public to vote on their favorite competition entries
 
 ## Voting Restrictions
 
-- If “Single Vote per User” is enabled, users can only cast one vote per round
+- If “Single Vote per User” is enabled  in Gigg, users can only cast one vote per round
 - Other vote-based restrictions (e.g., subscription requirement) are controlled in the “Type” tab
 
-## User Actions
+## User Actions on Gigg Competiton Website
 
 - Users visit the Gigg challenge website during an active voting round
 - Approved entries are displayed as tiles  
@@ -54,14 +54,14 @@ The voting phase allows the public to vote on their favorite competition entries
 ## Winning
 
 - If the winner of the round is selected by votes, the entrants with the most votes move on
-- Round winners and final winners can also be selected by random choice or company choice. This will depend on what the company has chosen in the "Rounds" setup tab.  
+- Round winners and final winners can also be selected by random choice or company choice. This will depend on what the company has chosen in the "Rounds" setup tab in Gigg.  
   ![image](https://github.com/user-attachments/assets/f9f04b8c-2081-4ca0-8152-c264426e6687)
 
 - After the final round ends and “Advance Challenge” is clicked, an email is sent to the entrant(s) with the most votes
 - The challenge ends and the winner(s) are determined
 - Admins can remove entries from the current round to influence outcomes if needed
 - However, entries that did not advance from previous rounds cannot be brought back
-- Winner(s) are automatically displayed on the site once chosen  
+- Winner(s) are automatically displayed on the Gigg competition website once chosen  
   ![Screenshot 2025-08-12 9 47 27 AM](https://github.com/user-attachments/assets/35dfb323-53bd-44c2-9e33-36097c242b24)
 
 ---
