@@ -4,6 +4,7 @@ tags: [competition, setup, admin, configuration]
 ---
 
 # How admins setup a site competition
+Takes place in Gigg.
 
 ## Create a Site Competition
 
