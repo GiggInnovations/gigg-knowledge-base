@@ -5,7 +5,7 @@ tags: [embedding, boards, public submissions, iframe]
 
 # Embedding Boards and Public Submission Forms
 
-Boards and Public Submission forms can be embedded into websites using iframe code generated inside Gigg.
+Boards and Public Submission forms can be embedded into websites using iframe code generated inside Gigg. Takes place in Gigg.
 
 ---
 
