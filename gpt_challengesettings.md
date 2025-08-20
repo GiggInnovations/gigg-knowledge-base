@@ -72,9 +72,9 @@ This section controls core details, sharing options, and high-level actions for 
 
 ### Delete Competition
 
-- Click **Delete This Competition** to open the deletion modal.
-- Type `delete` in the modal text box to enable the **Delete Competition** button.
-- Once confirmed, deletion is permanent and cannot be undone.
+1. Click **Delete This Competition** to open the deletion modal.
+2. Type `delete` in the modal text box to enable the **Delete Competition** button.
+3. Once confirmed, deletion is permanent and cannot be undone.
 
 ---
 
@@ -204,6 +204,7 @@ Control the visual style and branding for your competition.
 ---
 
 ## Reports
+Exporting a report will download a .csv file containing the relevant info to the user's computer
 
 - Exports are available for:
   - Voters
