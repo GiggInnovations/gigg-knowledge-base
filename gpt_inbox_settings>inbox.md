@@ -5,7 +5,7 @@ tags: [inbox, filters, settings, social media, rss]
 
 # Inbox Settings > Inbox
 
-Customize how your social inbox filters and displays posts.
+Customize how your social inbox filters and displays posts.  Takes place in Gigg.
 
 ## Adding and Deleting Words
 
