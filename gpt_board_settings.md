@@ -5,7 +5,7 @@ tags: [boards, customization, embed, display]
 
 # Board Display Types and Settings
 
-Boards support multiple display types, each with its own customization options. These can be accessed via **Board Settings**.
+Boards support multiple display types, each with its own customization options. These can be accessed via **Board Settings**.  Takes place in Gigg.
 
 ## Accessing Board Settings
 
