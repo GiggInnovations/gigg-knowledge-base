@@ -86,4 +86,8 @@ Users who belong to multiple organizations can easily switch their working conte
 
 ---
 
-This reference can be reused for future documentation or onboarding.
+# Gigg Inc vs Gigg vs Gigg Competition website
+
+- Gigg Inc is the name of our company
+- Gigg refers to the website where creating/managing inboxes and competitions takes place
+- Gigg Competition Website is where competition the public can submit entries and vote on them.
