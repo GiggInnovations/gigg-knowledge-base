@@ -49,6 +49,7 @@ The submission round is the first phase of a Site Competition, where entrants up
 
 ## Admin Review
 
+- Takes place in Gigg
 - Admins review submissions in the "Submissions" tab
 - Each entry can be accepted or rejected
 - Rejections require a personalized message that is emailed to the entrant
