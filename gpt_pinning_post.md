@@ -27,15 +27,15 @@ Pinning allows users to organize important content from the inbox into curated b
 
 ## Bulk Pinning
 
-- Click the checkbox on the left side of each post
-- Use the pin icon at the top of the inbox to pin selected posts
-- Select one or more boards to complete the pinning process  
+1. Click the checkbox on the left side of each post
+2. Use the pin icon at the top of the inbox to pin selected posts
+3. Select one or more boards to complete the pinning process  
   ![Bulk pinning](https://github.com/user-attachments/assets/8000a701-85e1-4fa5-9e21-63975958b686)
 
 ## Viewing Pinned Posts
 
-- Click the **Boards** dropdown on the left sidebar
-- Select a board to view its pinned posts  
+1. Click the **Boards** dropdown on the left sidebar
+2. Select a board to view its pinned posts  
   ![View boards/pinned posts](https://github.com/user-attachments/assets/aa9ddc6f-7ee8-46d2-9ca4-22a3f9fe5667)
 
 ## Notes
