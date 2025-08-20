@@ -5,7 +5,7 @@ tags: [inbox, backend, filtering, support]
 
 # Inbox: Internal Behavior and Notes
 
-This file provides backend notes and support-facing guidance for how the Social Inbox works within Gigg.
+This file provides backend notes and support-facing guidance for how the Social Inbox works within Gigg.  Takes place in Gigg.
 
 ## Default Behaviors
 
