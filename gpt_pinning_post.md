@@ -5,7 +5,7 @@ tags: [inbox, pinning, boards, post management]
 
 # Pinning Posts
 
-Pinning allows users to organize important content from the inbox into curated boards for easy access and display.
+Pinning allows users to organize important content from the inbox into curated boards for easy access and display.  Takes place in Gigg.
 
 ## Key Features
 
