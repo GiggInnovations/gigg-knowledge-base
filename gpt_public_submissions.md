@@ -5,7 +5,7 @@ tags: [inbox, public submissions, embedding, customization]
 
 # Public Submissions
 
-Public Submissions allow anyone to contribute posts without using social media, through a customizable form that can be embedded on a website.
+Public Submissions allow anyone to contribute posts without using social media, through a customizable form that can be embedded on a website.  Takes place in Gigg.
 
 ## Key Features
 
