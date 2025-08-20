@@ -1,5 +1,5 @@
 # Comment Competition and Post competition setup
-How comment and post competitions are setup in **Challenge Settings > Setup**
+How comment and post competitions are setup in **Challenge Settings > Setup**.  Takes place in Gigg.
 
 ## Comment Competitions
 The admin chooses an Instagram or X post for the participants to comment on. Once the competition has begun, any comments on the post will appear in the inbox. These are the entries for the competition. The admin can decide if the winner is chosen either by random or by the company's choice.
