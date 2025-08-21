@@ -46,7 +46,7 @@ Before you can configure a competition, you first need to create the competition
       - Social votes: Advancing entries and winner(s) are chosen by the most amount of social votes received  
       - Company choice: The company chooses which entries advance between rounds and who ultimately wins  
       - Random: The winner for each round is randomly selected
-   - Toggle Auto-Notify Competitors and Auto-Advance Rounds  
+   - Toggle Auto-Notify Competitors and Auto-Advance Rounds (auto-advance is only visible when winner is chosen by voting by social votes)
    ![image](https://github.com/user-attachments/assets/0fdb0ba0-bf83-4b48-842c-8cc89eded026)
 
 4. If Auto-Advance is off, the admin must click "Advance Round" manually.
