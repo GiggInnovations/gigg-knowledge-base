@@ -85,6 +85,13 @@ Before you can configure a competition, you first need to create the competition
 4. Once complete, the "Publish" button becomes clickable and publishes to the Gigg Competitions website  
    ![successful_publish_challenge](https://github.com/user-attachments/assets/3eb3895a-17cb-4611-9743-590c96c8730c)
 
+- Once a competition is published, the following settings cannot be changed without being unpublished:
+  - Challenge Submission Type
+  - Submission Round Start Date
+  - How winners are selected
+  - Nubmer of winners during each round
+  - Approve and Notify Winners start date
+
 ---
 
 # How admins create a Social Site Competition
