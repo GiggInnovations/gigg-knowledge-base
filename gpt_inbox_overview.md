@@ -84,7 +84,8 @@ New inboxes are created directly from the main dashboard. The setup steps mirror
 ## User Actions
 
 - **Delete Post**: Hover right, click trash can  
-  ![Delete_post](https://github.com/user-attachments/assets/3dea11dd-a047-4391-93af-81d2fc7985fe)
+  ![Delete_post](https://github.com/user-attachments/assets/b80f5741-17e6-4747-95c2-81b1320e32dc)
+
 
 - **Pin Post**: Hover right, click pin icon  
   ![Pin_post](https://github.com/user-attachments/assets/b6ac2dce-ffe2-4be0-a23d-82cfe01f2fba)
