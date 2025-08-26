@@ -98,3 +98,19 @@ Functions the exact same as in the Site Competitions.
 
 ### Finalize
 Functions the exact same as in the Site Competitions.
+
+---
+
+## Removing/editing Submissions
+- For post and comment competitions, submissions cannot be removed.
+- Admins can edit the comment of a post competition by:
+  1. Click on the desired post
+  2. 
+
+## Choosing Winners
+If the winner of a post or comment competition is chosen by the company, this is done during the **Approve and notify Winners** Round after submissions.
+![Winners Round](https://github.com/user-attachments/assets/e09280e1-1e5f-4fda-a36a-cb6df2654ca9)
+
+It functions similar to approving/rejecting an entry during the Submissions round of a Site Competition.  A check mark and an X are visible on the right of the entry.  Clicking the check mark will select the comment as a winner, the "x" will mark it as rejected.
+![Accepting/Rejecting Entries](https://github.com/user-attachments/assets/ca58726f-7bd0-4967-9faf-d09ededc1260)
+
