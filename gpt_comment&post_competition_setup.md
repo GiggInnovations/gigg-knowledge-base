@@ -101,16 +101,58 @@ Functions the exact same as in the Site Competitions.
 
 ---
 
-## Removing/editing Submissions
-- For post and comment competitions, submissions cannot be removed.
-- Admins can edit the comment of a post competition by:
-  1. Click on the desired post
-  2. 
+## Removing or Rejecting Submissions
+
+- **Post & Comment Competitions**  
+  - Submissions cannot be deleted.  
+  - They may only be rejected during the **Choosing Winners** round.  
+
+---
+
+## Editing Submissions
+
+Admins can edit text in **Post Competitions**:
+
+1. Click the desired post.  
+2. Click the **pencil icon** next to the text.  
+3. Make your edits.  
+4. Click **Save** to confirm or **Cancel** to discard.  
+   - If no text is entered, changes cannot be saved.  
+
+![Editing](https://github.com/user-attachments/assets/7d47350c-fba1-4b83-b15e-0633aeb73ff4)
+
+---
 
 ## Choosing Winners
-If the winner of a post or comment competition is chosen by the company, this is done during the **Approve and notify Winners** Round after submissions.
+
+Winners are chosen in the **Approve and Notify Winners** round.  
+This round takes place after submissions close.
+
 ![Winners Round](https://github.com/user-attachments/assets/e09280e1-1e5f-4fda-a36a-cb6df2654ca9)
 
-It functions similar to approving/rejecting an entry during the Submissions round of a Site Competition.  A check mark and an X are visible on the right of the entry.  Clicking the check mark will select the comment as a winner, the "x" will mark it as rejected.
-![Accepting/Rejecting Entries](https://github.com/user-attachments/assets/ca58726f-7bd0-4967-9faf-d09ededc1260)
+### How It Works
+- Each entry shows a **check mark** (approve) and an **X** (reject).
+  ![Accepting/Rejecting Entries](https://github.com/user-attachments/assets/ca58726f-7bd0-4967-9faf-d09ededc1260)
+   
+- Click the check mark ✅ to select an entry as a winner.
+  ![Approving an entry](https://github.com/user-attachments/assets/faf127ac-1739-4f97-ba99-42d0eec5a6f2)
+
+- Click the X ❌ to reject an entry.
+  ![Rejection of an entry](https://github.com/user-attachments/assets/ef4ff750-999a-4e54-9161-b843987f64dd)
+
+- Approvals can be undone by clicking the green check again.
+  ![Undoing an approval](https://github.com/user-attachments/assets/bdd13fda-ee9b-4d03-8efe-acab9be5bc69)
+ 
+- Rejections can be undone by selecting the entry and clicking the red X at the top of the drawer.
+  ![Undoing a rejection](https://github.com/user-attachments/assets/1d6eff1f-d8bc-47a8-8eff-afb9fb1a3f10)
+
+
+
+
+---
+
+## Key Notes
+- Editing is only available in **Post Competitions**.  
+- Rejections are the only way to manage submissions in **Comment Competitions**.  
+- This process mirrors the approval flow used in Site Competitions.
 
