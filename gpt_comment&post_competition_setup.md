@@ -16,7 +16,7 @@ The admin chooses an Instagram or X post for the participants to comment on. Onc
 ![Screenshot 2025-08-12 6 05 55 PM](https://github.com/user-attachments/assets/f4d36a52-065a-4278-805b-68d0fda8e2cd)
 
 ### Rounds
-There are only two rounds, the submission round and voting round.  No additional rounds can be added. There are only two choices for how winners are chosen. These are **Random** and **Company Choice**. There is no voting for comment competitions or post competitions.
+There are only two rounds, the submission round and voting round.  No additional rounds can be added. There are only two choices for how winners are chosen. These are **Random** and **Company Choice**. There is no voting for comment competitions or post competitions.  Choose the competition start date, competition end date, and the end date for "Approve and Notify Winners".  The Approve and Notify Winners start day is automatically the end date of the competiton and cannot be edited.
 ![Rounds for Comment and Post competitions](https://github.com/user-attachments/assets/135cf8ce-cd91-4f71-a06c-344dab1cdf33)
 
 
